@@ -9,7 +9,7 @@ This is my personal blogging space.
 
 
 
-I'm Sinan, a ...
+I'm Yao, a ...
 
   … NLP engineer, independent blogger and avid reader!
 
