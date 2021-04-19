@@ -55,15 +55,15 @@ The learning process in RL is limited to one task and one environment, the agent
 
 In this paper, the authors use the ASC Memory Network as a basic model and the model can be integrated into their proposed lifelong learning memory network. So let us first look at the ASC MN (the authors review it as no lifelong learning version NLL). The original ASC MN is published in the paper "Aspect Level Sentiment Classification with Deep Memory Network" by Tang et al. They design a multi-layer (hops) computational model for aspect level sentiment classification. Each layer is a content- and location-based attention model, which first learns the importance/weight of each context word and then utilizes this information to calculate continuous text representation. Finally, the text representation in the last layer is regarded as the feature for sentiment classification. The details of their mode are shown in the following figure.
 
-![](..\assets\images\papernotesimgs\2.png)
+![](../../../../../assets/images/papernotesimgs/2.png){:style="margin:0 auto"}
 
 Here are much more details of this MN model. The target aspect *a* is embedding into a vector **t**, and other words **x** in this sentence are embedding into a vector **m** (the same dimension with **t** ). Through the attention mechanism, the model gets an attention score vector which contains the attention score of each word in *x* towards the target aspect *a*. Some notations and equations are shown in the following figure.
 
-![](..\assets\images\papernotesimgs\3.png)
+![](../../../../../assets/images/papernotesimgs/3.png){:style="margin:0 auto"}
 
 With the result(attention score vector) from the attention layers, the MN model combines the attention score vector with another word vector *c* and the target aspect vector **t** to generate the final aspect-based sentiment score s. In the final step, passing the score s into a softmax function, the model generates the final sentiment probability of this review sentence.
 
-![](..\assets\images\papernotesimgs\4.png)
+![](../../../../../assets/images/papernotesimgs/4.png){:style="margin:0 auto"}
 
 Furthermore, to effectively employ MN in the lifelong learning process, the authors define two knowledge Aspect-Sentiment Attention (ASA) and Context-Sentiment Effect (CSE) from the result of MN. I will introduce some more details of this two knowledge later.
 
@@ -73,39 +73,39 @@ Up to now, I have introduced all the background knowledge related to the lifelon
 
 At first, we need to make a clear understanding of the notations used in the algorithm shown in the following figure. The new domain (gold-labeled data, aspect, and sentiment) and past domains (unlabeled data) are all input data of the algorithm. Notice here, in the two kinds of domain datasets, **g** is much bigger than *l*, because of the unlabeled datasets are much easier to get than the gold-labeled datasets.
 
-![](..\assets\images\papernotesimgs\5.png)
+![](../../../../../assets/images/papernotesimgs/5.png){:style="margin:0 auto"}
 
 Shown in the algorithm figure, **Step1** is Automatic Machine Labeling (line 1-3). In order to make use of these unlabeled data, the authors design an automatic aspect sentiment labeling strategy that does not need human intervention. According to the theory of sentiment consistency, the authors consider that the mentioned aspect should have consistent or similar sentiment orientation as the whole review ratings. In their proposal, they employ two different kinds of methods to label the aspects in the unlabeled datasets. AutoLabelingFull aims to extract all aspects mentioned in the datasets by using an unsupervised aspect extraction approach. While AutoLabelingLite only focuses on the target aspect in the gold-labeled datasets. The outputs of **Step1** are past domains datasets contain aspect labels and sentiment labels. These new past domains datasets here are subsets of the original unlabeled datasets. 
 
-![](..\assets\images\papernotesimgs\6.png)
+![](../../../../../assets/images/papernotesimgs/6.png){:style="margin:0 auto"}
 
 **Step2** aims to Build Classifiers and Raw Knowledge Retention (line 4-8). In order to collect structured information learned by the model, the authors define two types of knowledge attention and sentiment. The attention knowledge is the aspect-sentiment attention distribution. The model generates the attention score of the context (word) *Vi* for target ***t*** under sentiment ***r***. In term of sentiment, the context-sentiment effect is the focus of accumulation. The knowledge can be constructed as a context-sentiment matrix **M**. The element in *M* indicates the sentiment effect of a context (word) **v** for sentiment ***k*** in domain ***j***. Then the model adds these two types of knowledge to the knowledge set **RK**. Up to now, *RK* only contains some raw knowledge which has noises from auto-labels and mis-classification results. This raw knowledge can not be used directly. 
 
-![](..\assets\images\papernotesimgs\7.png)
+![](../../../../../assets/images/papernotesimgs/7.png){:style="margin:0 auto"}
 
 In **Step3**, the knowledge mining (KnowMining) step mines reliable knowledge from the raw knowledge stored in *RK*. Aspect-Sentiment Attention (ASA) is a kind of reliable knowledge distilling from the raw knowledge attention. In the same way, Context-Sentiment Effect (CSE) corresponds to sentiment. Employing the theory of Frequent Pattern Mining (FPM) with minimum support, the model gets reliable knowledge mining from the raw knowledge. The new reliable knowledge can be supposed as denoised knowledge with the infrequent items or words removed. Finally, after the mining process, two kinds of reliable knowledge **ASA** nad **CSE** will be stored in a knowledge base (KB) to be used in a new domain as prior knowledge. 
 
 At this moment, the lifelong learning memory network (**L2MN**) employs the prior knowledge to a new domain. 
 
-![](..\assets\images\papernotesimgs\8.png)
+![](../../../../../assets/images/papernotesimgs/8.png){:style="margin:0 auto"}
 
 {:.image-caption}
 
 *Model Architecture*
 
-Shown in the model architecture, the final score consists of six different parts. The first part ***S\*** comes from the original aspect and sentence embedding vector ***O\***. With the help of different knowledge from KB, other score parts could be calculated in two different flows. Combining the knowledge from ASA which is separated into positive attention and negative attention with the positive original embedding ***Op\*** and *On*, the model gets two different scores ***Sp\*** and ***Sn.\*** The following figure shows the equations of how to calculate ***Sp\*** and *Sn.* In the equations, A is a polarity-projection vector and B is a polarity-selection vector. 
+Shown in the model architecture, the final score consists of six different parts. The first part **S** comes from the original aspect and sentence embedding vector **O**. With the help of different knowledge from KB, other score parts could be calculated in two different flows. Combining the knowledge from ASA which is separated into positive attention and negative attention with the positive original embedding **Op** and *On*, the model gets two different scores **Sp** and **Sn** The following figure shows the equations of how to calculate **Sp** and **Sn** In the equations, **A** is a polarity-projection vector and **B** is a polarity-selection vector. 
 
-![](..\assets\images\papernotesimgs\9.png)
+![](../../../../../assets/images/papernotesimgs/9.png){:style="margin:0 auto"}
 
 Furthermore, the sentence-specific matrix *Hq* from KB encodes the prior sentiment effect of the context words in sentence q. Combining *Hq* with the three different attention, the model generates other three different scores. 
 
 After all the six scores generated by the model, the model combines all of them as the final sentiment score which could generate the final sentiment through a softmax function. The final joint score is shown in the following equation. 
 
-![](..\assets\images\papernotesimgs\10.png)
+![](../../../../../assets/images/papernotesimgs/10.png){:style="margin:0 auto"}
 
 In the learning process, the L2MN model is trained in an end-to-end manner by minimizing the cross entropy loss and using stochastic gradient descent. In the shown training loss function equation, g(x,t) denotes a gold sentiment label in the gold-labeled domains datasets. y(x,t) is the model-predicted sentiment distribution for input (x,t). 
 
-![](..\assets\images\papernotesimgs\11.png)
+![](../../../../../assets/images/papernotesimgs/11.png){:style="margin:0 auto"}
 
 ### Experiments
 
@@ -119,9 +119,9 @@ The authors use the F1 score as the primary evaluation measure. Especially, they
 
 Following the results part, the authors show two case studies. In the first case study, for the same sentence "however it has failed to deliver on quality", the model L2MN could correctly classify this sentence, however, the model AMN classifies wrong. In this case, "quality" is the target aspect, with the help of the automatically accumulated knowledge, L2MN better identifies that "failed" is an important context for "quality" so it gets higher attention score among the contexts. In the second case, the sentence is "my other gripe is the incredibly crappy remote which is worse than other cheaper apex units." As this sentence is really hard to predict, AMN can not get attention well. On the contrary, with the help of KB, L2MN can identify "scrappy" which is usually a negative sentiment word in the digital domain, in this situation, the attention scores of L2MN are much better than AMN.
 
-![](..\assets\images\papernotesimgs\12.png)
+![](../../../../../assets/images/papernotesimgs/12.png){:style="margin:0 auto"}
 
-![](..\assets\images\papernotesimgs\13.png)
+![](../../../../../assets/images/papernotesimgs/13.png){:style="margin:0 auto"}
 
 To sum up, in this work, the authors employ the idea of lifelong learning and designed a novel three-step lifelong learning approach for ASC. In addition, a new lifelong learning memory network (L2MN) model was developed, which can leverage the meta-mined ASA knowledge and CSE knowledge to help future tasks. Finally, the experiment results demonstrate the effectiveness of their approach. 
 
