@@ -6,7 +6,7 @@
 # Site
 title: Yao's Blog
 subtitle: 
-description: My personal site.
+description: My personal blogging space
 author: Yao Qiang
 Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -206,8 +206,6 @@ font:
     size:
 
 
-
-
 # ---------------------------------------------------------------
 # Sidebar Settings
 # ---------------------------------------------------------------
@@ -219,7 +217,7 @@ font:
 social:
   #LinkLabel: Link
   GitHub: https://github.com/qiangyao1988
-  Twitter: YaoQiang7
+  Twitter: https://twitter.com/YaoQiang7
   # Weibo:
 
 
@@ -239,7 +237,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: /assets/images/avatar.jpg
+avatar: /assets/images/me.jpg
 
 
 # Table Of Contents in the Sidebar
