@@ -33,7 +33,7 @@ There are two main contributions of this paper. First, the authors use memory ne
 
 The following picture shows the workflow of LML. After storing the knowledge of previous tasks into a Knowledge Base (KB), when a new task is coming, it first distills the past knowledge from KB, then the new task combines past knowledge with its own inputs in its model to solve its own problem. After this, the LML system retains the knowledge of this new task into KB for future tasks.
 
-![](..\assets\images\papernotesimgs\1.png)
+![](../assets/images/papernotesimgs/1.png){:style="margin:0 auto"}
 
 Some other machine learning techniques also have similar functions with LML based on its three key characters. Let us make some comparisons here.
 
