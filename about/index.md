@@ -12,7 +12,7 @@ I am Yao, a Ph.D student in Wayne State University. My major is computer science
 
 I come from Xi'an, a famous historical city in China. I have married and my wife gave birth to a little baby girl last year. The baby is so cute, we all love here very much. It is a lot of fun to see her growing up. 
 
-![picture](../assets/images/sakura.jpg){:style="margin:0 auto"}
+![picture](../assets/images/xian.jpg){:style="margin:0 auto"}
 
 {:.image-caption}
 
