@@ -335,7 +335,7 @@ post_wordcount:
 
 # Reward settings
 reward_comment: Support this independent blog by donating a coffee to the writer :)
-wechatpay: /assets/images/wechat-pay.png
+wechatpay: /assets/images/wechat-pay.jpg
 # alipay:
 
 # Declare license on posts
