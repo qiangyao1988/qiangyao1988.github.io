@@ -127,7 +127,7 @@ To sum up, in this work, the authors employ the idea of lifelong learning and de
 
 In my opinions, the idea is innovative and interesting. With the help of this new L2MN model, we can solve the problem caused by data scarcity, especially the unlabeled data. Their presentation is very clear. In this paper, there are many notations to be defined and the training process has several complex steps. The authors make the notations and equation easily to be understood and show the lifelong learning algorithm very clearly step by step. For myself, I learn a lot in this aspect from them. What is more, the experiment results are also very persuasive. The two case studies are also a highlight in the end. They compare their model and other models by some figures. It helps readers understand the effectiveness of their approach in a detailed way. However, they apply ASC Memory Network as their basic model, I think they should talk more details of ASC MN so that some readers who never read about MN could understand their approach easier. 
 
-#### *Reference:*
+### Reference
 
 Wang, Shuai, et al. "Lifelong Learning Memory Networks for Aspect Sentiment Classification." 2018 IEEE International Conference on Big Data (Big Data). IEEE, 2018.
 
