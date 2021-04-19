@@ -220,7 +220,7 @@ social:
   #LinkLabel: Link
   GitHub: https://github.com/qiangyao1988
   Twitter: YaoQiang7
-  # Weibo: http://weibo.com/yingzilianxi
+  # Weibo:
 
 
 # Social Links Icons
@@ -234,7 +234,7 @@ social_icons:
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
   Twitter: twitter
-  # Weibo: weibo
+  Weibo: weibo
 
 
 # Sidebar Avatar
@@ -344,8 +344,6 @@ post_copyright:
   license: CC BY-NC-SA 3.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
-
-
 # ---------------------------------------------------------------
 # Misc Theme Settings
 # ---------------------------------------------------------------
@@ -366,7 +364,6 @@ custom_logo:
 # https://github.com/chriskempson/tomorrow-theme
 highlight_theme: normal
 # highlight_theme: night eighties
-
 
 # ---------------------------------------------------------------
 # Third Party Services Settings
