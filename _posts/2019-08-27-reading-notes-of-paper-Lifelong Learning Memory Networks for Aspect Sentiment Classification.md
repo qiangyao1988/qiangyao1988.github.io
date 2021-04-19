@@ -1,21 +1,17 @@
 ---
-title: Common Sorting Algorithms Implemented in Python 3.6
-date: 2017-08-15
+title: Reading notes of paper "Lifelong Learning Memory Networks for Aspect Sentiment Classification"
+date: 2019-08-27
 categories:
-- Algorithms
+- Paper Digest
 tags:
-- python
-- algorithm
-- programming
+- Sentiment Analysis
+- Natural Language Processing
+- 
 ---
 
-Sorting is one of the most basic and fundamental algorithms in CS theory. Here partially to keep a record for my myself and to memorise (understanding new concepts and methods takes time, sometimes memorising comes to be an essential approach of learning), I summarised the Python implementation of 4 common sorting algorithms: bubble sort, selection sort, insertion sort and merge sort. 
+This paper 《Lifelong Learning Memory Networks for Aspect Sentiment Classification》 is published on 2018 IEEE International Conference on Big Data (Big Data) by Shuai Wang from UIC.
 
-(I want to revisit this blog and complete the list of sorting algorithms in Python in the future)
-
-
-
-
+There are two main contributions of this paper. First, the authors use memory networks from big unlabeled data to solve the data scarcity problem. Second, they develop a novel model named lifelong learning memory network (L2MN) that can leverage the learned knowledge to new domains.
 
 - #### **Bubble Sort** (best: O(N); worst: O(N^2))
 
