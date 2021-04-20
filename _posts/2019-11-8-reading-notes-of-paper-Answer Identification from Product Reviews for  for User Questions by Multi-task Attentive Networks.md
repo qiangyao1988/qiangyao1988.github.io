@@ -34,12 +34,11 @@ Researchers are working on QA mainly in two different areas, Textual Question An
 
 #### Inspiration
 
-    1. Most e-commerce Websites now offer a Question Answering (QA) system that allows users to ask other users who have purchased the product some information about the products.
-       2. Many times, users still need to wait patiently for others' replies.
-
-       3. Customer reviews are an invaluable source of information where the user question can be answered.
-       4. It is unrealistic for a user to browse through the massive customer reviews for answers.
-       5. It is possible to identify answers automatically from reviews and respond to the users instantly.
+1. Most e-commerce Websites now offer a Question Answering (QA) system that allows users to ask other users who have purchased the product some information about the products.
+2. Many times, users still need to wait patiently for others' replies.
+3. Customer reviews are an invaluable source of information where the user question can be answered.
+4. It is unrealistic for a user to browse through the massive customer reviews for answers.
+5. It is possible to identify answers automatically from reviews and respond to the users instantly.
 
 #### Example
 
