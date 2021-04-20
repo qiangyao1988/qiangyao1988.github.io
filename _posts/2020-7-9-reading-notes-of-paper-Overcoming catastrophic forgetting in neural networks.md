@@ -7,8 +7,6 @@ tags:
 - Continual Learning
 ---
 
-### Paper
-
 This blog is a reading note for the paper "Overcoming catastrophic forgetting in neural networks", which is famous know as elastic weight consolidation (EWC).
 
 ### Background

@@ -8,9 +8,7 @@ tags:
 - Knowledge Distillation
 ---
 
-### Paper
-
-This paper "Adversarially Robust Distillation" is published in AAAI 2020 by Goldblum et al.
+This paper "Adversarially Robust Distillation" is published in AAAI 2020 by Goldblum et al.  The authors propose whether the adversarial robust can be transferred from the teacher networks to the student networks.
 
 ### Background
 

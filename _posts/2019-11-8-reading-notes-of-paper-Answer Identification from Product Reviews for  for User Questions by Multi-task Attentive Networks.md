@@ -8,9 +8,7 @@ tags:
 - Natural Language Processing
 ---
 
-### Paper
-
-This paper "Answer Identification from Product Reviews for User Questions by Multi-task Attentive Networks" is published in AAAI 2019 by Long Chen, Ziyu Guan.
+This paper "Answer Identification from Product Reviews for User Questions by Multi-task Attentive Networks" is published in AAAI 2019 by Long Chen, Ziyu Guan. The authors propose a novel multi-task attentive model named QAR-net to identify plausible answers from product reviews for user questions.
 
 ### Contributions
 

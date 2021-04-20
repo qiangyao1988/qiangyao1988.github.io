@@ -8,9 +8,7 @@ tags:
 - Knowledge Distillation
 ---
 
-### Paper
-
-This paper "Few Shot Network Compression via Cross Distillation" is published in AAAI 2020 by Bai et al.
+This paper "Few Shot Network Compression via Cross Distillation" is published in AAAI 2020 by Bai et al. This paper presents cross distillation a novel knowledge distillation approach for learning compact student network given limited number of training samples. 
 
 ### Background
 

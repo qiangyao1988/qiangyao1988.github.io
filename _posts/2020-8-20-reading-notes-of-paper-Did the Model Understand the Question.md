@@ -9,6 +9,8 @@ tags:
 - Question Answering
 ---
 
+This paper studies IG, an attribution technique, on three question answering models.  The authors demonstrate we can either use attribution to craft effective adversarial examples or aid the developer in iterating on model quality more effectively.
+
 ### Problem Setup
 
 While we are answering some questions in the text, there are often some attention notes in the question paragraph, such as "Read the question carefully". In this way, we need to pay attention to the question text and try to really understand it. In machine learning problems, there are several question answering tasks, e.g., Tabular QA [1], Visual QA [2], and Reading Comprehension [3]. This paper cares about have the models read the question carefully similar to the real-world scenario?

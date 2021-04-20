@@ -8,9 +8,7 @@ tags:
 - Natural Language Processing
 ---
 
-### Paper
-
-This paper "Lifelong Learning Memory Networks for Aspect Sentiment Classification" is published on 2018 IEEE International Conference on Big Data (Big Data) by Shuai Wang from UIC.
+This paper "Lifelong Learning Memory Networks for Aspect Sentiment Classification" is published on 2018 IEEE International Conference on Big Data (Big Data) by Shuai Wang from UIC.  The authors employ the idea of lifelong learning and designed a novel three-step lifelong learning approach for ASC.
 
 ### Contributions
 
@@ -126,7 +124,11 @@ Following the results part, the authors show two case studies. In the first case
 
 ![](../../../../../assets/images/papernotesimgs/13.png){:style="margin:0 auto"}
 
+### Summary
+
 To sum up, in this work, the authors employ the idea of lifelong learning and designed a novel three-step lifelong learning approach for ASC. In addition, a new lifelong learning memory network (L2MN) model was developed, which can leverage the meta-mined ASA knowledge and CSE knowledge to help future tasks. Finally, the experiment results demonstrate the effectiveness of their approach. 
+
+### Review
 
 In my opinions, the idea is innovative and interesting. With the help of this new L2MN model, we can solve the problem caused by data scarcity, especially the unlabeled data. Their presentation is very clear. In this paper, there are many notations to be defined and the training process has several complex steps. The authors make the notations and equation easily to be understood and show the lifelong learning algorithm very clearly step by step. For myself, I learn a lot in this aspect from them. What is more, the experiment results are also very persuasive. The two case studies are also a highlight in the end. They compare their model and other models by some figures. It helps readers understand the effectiveness of their approach in a detailed way. However, they apply ASC Memory Network as their basic model, I think they should talk more details of ASC MN so that some readers who never read about MN could understand their approach easier. 
 

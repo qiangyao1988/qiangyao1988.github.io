@@ -9,9 +9,7 @@ tags:
 - Sentiment Analysis
 ---
 
-### Paper
-
-This paper "Improving the Explainability of Neural Sentiment Classifiers via Data Augmentation" is published in NIPS 2019 by Hanjie Chen, Yangfeng Ji.
+This paper "Improving the Explainability of Neural Sentiment Classifiers via Data Augmentation" is published in NIPS 2019 by Hanjie Chen, Yangfeng Ji. The authors find a novel solution to improve the explainability of neural sentiment classifiers by using data augmentation.
 
 ### Background
 
