@@ -6,16 +6,19 @@ categories:
 tags:
 - Sentiment Analysis
 - Natural Language Processing
-- 
 ---
 
-This paper 《Lifelong Learning Memory Networks for Aspect Sentiment Classification》 is published on 2018 IEEE International Conference on Big Data (Big Data) by Shuai Wang from UIC.
+### Paper
+
+This paper "Lifelong Learning Memory Networks for Aspect Sentiment Classification" is published on 2018 IEEE International Conference on Big Data (Big Data) by Shuai Wang from UIC.
+
+### Contributions
 
 There are two main contributions of this paper. First, the authors use memory networks from big unlabeled data to solve the data scarcity problem. Second, they develop a novel model named lifelong learning memory network (L2MN) that can leverage the learned knowledge to new domains.
 
- In the beginning, let me introduce some background related to this paper.
-
 ### Background
+
+ In the beginning, let me introduce some background related to this paper.
 
 **Aspect Sentiment Classification (ASC)** is a hot research area in natural language processing. Traditional Sentiment Analysis (SA) only deals with sentiment towards the whole sentences without deep analysis into the aspects mentioned in the context. This may lose some important information in the sentences. What is more, some review sentences have mixed sentiment sometimes, e.g., in this review "The food in this restaurant is really very good, but the service is very slow, we need to wait for a long time.", the customer holds a positive sentiment towards the aspect "food", but a negative sentiment towards the aspect "service". In this situation, ASC becomes much more important than SA. Benefit from the workshop SemEval, many researchers are working on Aspect-Based Sentiment Analysis (ABSA) in recent years. In SemEval-2014 Task 4, SemEval-2015 Task 12 and SemEval-2016 Task 5, ABSA is divided into four subtasks. Subtask 1 (aspect term extraction) focuses on extract the aspects from the review sentences. Subtask 2 (aspect term polarity) aims to classify sentiment polarity towards the aspect terms. In subtask 3 (aspect category detection), we not only need to extract the aspect terms form the context, but also category these aspect terms into several pre-defined categories. Next, in Subtask 4, sentiment classification is applied towards these aspect categories. To make these subtasks more clearly, let us take two examples. E.g., 1. "I hated their fajitas, but their salads were great." In this example, the sentiment polarity towards the aspect fajitas is negative and the sentiment polarity towards the aspect salads is positive. E.g., 2. "The restaurant was expensive, but the menu was great." In this example, the aspect category "price" has a negative sentiment, while the aspect category "food" has a positive sentiment.
 
