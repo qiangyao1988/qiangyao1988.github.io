@@ -17,5 +17,10 @@ I come from Xi'an, a famous historical city in China. I have been married and my
 
 *Xi'an, China*
 
+#### Publications
+
+**Qiang, Yao, Xin Li, and Dongxiao Zhu. "Toward Tag-free Aspect Based Sentiment Analysis: A Multiple Attention Network Approach." *2020 International Joint Conference on Neural Networks (IJCNN)*. IEEE, 2020.**
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/9207426?casa_token=SCb9qiHypF8AAAAA:KWhKk61oLOLma2frkgGzCFRzusWyo6XaU3RxMtM3Ra6gtXK4c8ICVpXfYBC7-UgoMqHbiVUi)<br>
+
 Feel free to drop me a message: yao@wayne.edu
 
