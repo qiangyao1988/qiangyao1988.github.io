@@ -6,43 +6,14 @@ title: Home
 <div class="docs-section" id="bio">
   <h4>Bio</h4>
   <p>
-     I am highly motivated to pursue a career in the industry relating to the application of machine learning (ML) and deep learning (DL). 
-    My research interests center around developing ML and DL approaches to address some social good related problems, such as medical image analysis (BIBM-20) 
-    and electric vehicle charging recommendations (ECML-22). I have also done projects relating to the interpretability, robustness, and fairness of DL-based models 
-    (IJCAI-22).
+    I am currently in the fifth year of my Ph.D. program in the Department of Computer Science at Wayne State University, 
+    where I work in the Trustworthy AI lab under the supervision of <a href="https://dongxiaozhu.github.io/" target="_blank"> Dr. Dongxiao Zhu</a>. 
+    My research mainly focuses on Trustworthy Artificial Intelligence (AI), Natural Language Processing (NLP), Large Language Models, Medical Image Segmentation, and Foundational Machine Learning. 
+    My dedication to these areas has led to the publication of numerous research papers at top AI conferences, including NeurIPS, IJCAI, AAAI, ICML, MICCAI, and IJCNN, among others. 
+    In addition to my academic achievements, I gained valuable practical experience through a three-month internship as an Applied Scientist at Amazon. 
+    During my internship, I focused on improving the robustness of Large Language Models (LLMs) and proposing novel approaches to mitigate the performance drop of LLMs against prompt perturbations. 
+    I have a strong passion for research and a demonstrated ability to apply my knowledge to real-world challenges.
   </p>
-<!--   <p>
-    My research interests center around solving spatial-temporal data mining problems and applying the developed
-    learning approaches to broad AI applications in time series forecasting, sentiment analysis in NLP, and
-    healthcare outcome prediction.
-  </p> -->
-  
-<!--   <p>
-    I am currently a Ph.D. Student in the Department of Computer Science at Wayne State University. 
-    I am well motivated to pursue a research career after several years in the industry. 
-    My research focuses on Trustworthy AI, including interpretability, robustness, and fairness. 
-    Three first-authored AI research papers have been accepted for publication in major conference venues such as IJCAI and IJCNN. 
-    I have also done some projects on machine learning applications in health informatics.
-  </p> -->
-
-  <p>
-  I am a Ph.D. student in the Wayne State University, mentored by <a href="https://dongxiaozhu.github.io/" target="_blank">Dongxiao Zhu</a>. 
-  I received my M.E. degree from University of Chinese Academy of Sciences, 
-  and B.E. degree from Nanjing University of Science and Technology.
-  </p> 
-  <!--
-  I am a Postdoc at the department of Management Science and Engineering at Stanford University, working with <a href="https://web.stanford.edu/~jugander/" target="_blank">Johan Ugander</a>. 
-  My research develops tools for analyzing large-scale social data, aiming to provide a better understanding of social structure and behaviors online while also impacting the design of digital social systems.
-  My work often falls at the intersections of Social Networks, Machine Learning, and Causal Inference.
-  </p>
-
-  <p>
-  I completed my Ph.D. from MIT in 2020 under the supervision of Deb Roy. 
-  Before coming to MIT, I spent one year in Paris and one year in Barcelona doing a M.Sc. in Data mining and Knowledge Management. 
-  I got my B.Sc. from Staffordshire University with First Class honors in Computer Science. 
-  Throughout my graduate studies, I spent several summers doing internships in industry, including Yahoo! Labs, Amazon, LinkedIn, and Facebook.
-  </p>
-  -->
 </div>
 
 <!-- ========== Skills ========== -->
@@ -166,81 +137,6 @@ title: Home
     </div>
   </div>
 </div>
-
-<!-- ========== PROJECTS ========== 
-<div class="docs-section" id="projects">
-  <h4>Projects</h4>
-
-  <ul class="tab-nav">
-    <li><div class="button active" data-ref="#projects-selected">Selected</div></li>
-    <li><div class="button" data-ref="#projects-all">All</div></li>
-  </ul>
-
-  <div class="tab-content">
-    <div class="tab-pane active" id="projects-selected">
-      {% assign selected_projects = site.data.projects.projects | where: "selected", "y" %}
-      {% for project in selected_projects %}
-        {% assign index_modulo = forloop.index0 | modulo:3 %}
-        {% if index_modulo == 0 %}
-          <div class="row">
-        {% endif %}
-
-          <div class="four columns">
-            <div class="project-container">
-
-                <div class="project-image-container">
-                  <a href="{{ project.url }}">
-                    <img src="{{ project.thumbnail }}" class="u-max-full-width" />
-                  </a>
-                </div>
-
-                <div class="project-caption">
-                  <b>{{ project.title }}</b> <br/>
-                  {{ project.subtitle }}
-                </div>
-
-            </div>
-          </div>
-
-        {% if index_modulo == 2 %}
-          </div>
-        {% endif %}
-      {% endfor %}
-    </div>
-
-    <div class="tab-pane" id="projects-all">
-      {% for project in site.data.projects.projects %}
-        {% assign index_modulo = forloop.index0 | modulo:3 %}
-        {% if index_modulo == 0 %}
-          <div class="row">
-        {% endif %}
-
-          <div class="four columns">
-            <div class="project-container">
-
-                <div class="project-image-container">
-                  <a href="{{ project.url }}">
-                    <img src="{{ project.thumbnail }}" class="u-max-full-width" />
-                  </a>
-                </div>
-
-                <div class="project-caption">
-                  <b>{{ project.title }}</b> <br/>
-                  {{ project.subtitle }}
-                </div>
-
-            </div>
-          </div>
-
-        {% if index_modulo == 2 %}
-          </div>
-        {% endif %}
-      {% endfor %}
-    </div>
-  </div>
-
-</div>
--->
 
 <!-- ========== RESUME ========== -->
 <div class="docs-section" id="resume">
