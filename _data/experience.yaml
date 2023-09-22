@@ -1,13 +1,38 @@
 experiences:
 
-- place: "Wayne State University"
-  time: "2019 - now"
-  title: "Ph.D. Student"
+- place: "Xidian University"
+  time: "2006 - 2010"
+  title: "Undergraduate Student"
   subtitle: "Department of Computer Science"
   category: "school"
 
-# - place: "Wayne State University"
-#   time: "2019 - now"
-#   title: "Ph.D. Student"
-#   subtitle: "Department of Computer Science"
-#   category: "work"
+- place: "Xi’an Microelectronics Technology Institute,"
+  time: "2010 - 2017"
+  title: "Hardware Design Engineers"
+  # subtitle: "Department of Computer Science"
+  category: "industry"
+
+- place: "Wayne State University"
+  time: "2018 - 2019"
+  title: "Graduate Student"
+  subtitle: "Department of Computer Science"
+  category: "school"
+
+- place: "Wayne State University"
+  time: "2018 - 2019"
+  title: "Student Research Assistant"
+  subtitle: "Mike Ilitch School of Business"
+  category: "school"
+
+- place: "Amazon"
+  time: "2023 - 2023"
+  title: "Applied Scientist Intern"
+  subtitle: "Alexa"
+  category: "industry"
+
+- place: "Wayne State University"
+  time: "2019 - now"
+  title: "Graduate Research Assistant"
+  subtitle: "Department of Computer Science"
+  category: "academy"
+
