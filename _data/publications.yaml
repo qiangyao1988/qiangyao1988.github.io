@@ -24,15 +24,6 @@ papers:
     # code: "https://github.com/qiangyao1988/CIA"
     selected: y
 
-  - title: "FocalUNETR: A Focal Transformer for Boundary-aware Prostate Segmentation using CT Images"
-    authors: Chengyin Li, <b>Yao Qiang</b>, Rafi Lbn Sultan, Hassan Bagher-Ebadian, Prashant Khanduri, Indrin J. Chetty, and Dongxiao Zhu
-    venue: "MICCAI 2023: International Conference on Medical Image Computing and Computer Assisted Intervention"
-    paper_pdf: "/assets/publications/2023_focalunetr/2023_focalunetr.pdf"
-    paper_img: "/assets/publications/2023_focalunetr/2023_focalunetr.png"
-    # code: "https://github.com/ChengyinLee/COVID-MobileXpert"
-    # video: "https://www.youtube.com/watch?v=GWRhMH-N9Tc"
-    selected: n
-
   - title: "Proximal Composite Optimization for Distributionally Robust Learning"
     authors: Prashant Khanduri, Chengyin Li, Rafi Ibn Sultan, <b>Yao Qiang</b>, Joerg Kliewer, and Dongxiao Zhu
     venue: "AdvML-Frontiers 2023: New Frontiers in Adversarial Machine Learning Workshop at ICML"
@@ -52,4 +43,13 @@ papers:
     venue: "IJCAI 2023: International Joint Conference on Artificial Intelligence"
     paper_pdf: "/assets/publications/2023_NeFLAG/2023_NeFLAG.pdf"
     paper_img: "/assets/publications/2023_NeFLAG/2023_NeFLAG.png"
+    selected: n
+
+  - title: "FocalUNETR: A Focal Transformer for Boundary-aware Prostate Segmentation using CT Images"
+    authors: Chengyin Li, <b>Yao Qiang</b>, Rafi Lbn Sultan, Hassan Bagher-Ebadian, Prashant Khanduri, Indrin J. Chetty, and Dongxiao Zhu
+    venue: "MICCAI 2023: International Conference on Medical Image Computing and Computer Assisted Intervention"
+    paper_pdf: "/assets/publications/2023_focalunetr/2023_focalunetr.pdf"
+    paper_img: "/assets/publications/2023_focalunetr/2023_focalunetr.png"
+    # code: "https://github.com/ChengyinLee/COVID-MobileXpert"
+    # video: "https://www.youtube.com/watch?v=GWRhMH-N9Tc"
     selected: n
