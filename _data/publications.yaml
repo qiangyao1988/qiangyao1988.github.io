@@ -16,14 +16,6 @@ papers:
     code: "https://github.com/qiangyao1988/CIA"
     selected: y
 
-  - title: "Fairness-aware Vision Transformer via Debiased Self-Attention"
-    authors: <b>Yao Qiang</b>, <b>Chengyin Li</b>, Prashant Khanduri, and Dongxiao Zhu
-    # venue: "IJCAI-ECAI 2022: International Joint Conference on Artificial Intelligence"
-    paper_pdf: "/assets/publications/2023_fair_ViT/paper_fair_ViT.pdf"
-    paper_img: "/assets/publications/2023_fair_ViT/paper_fair_ViT.png"
-    # code: "https://github.com/qiangyao1988/CIA"
-    selected: y
-
   - title: "Proximal Composite Optimization for Distributionally Robust Learning"
     authors: Prashant Khanduri, Chengyin Li, Rafi Ibn Sultan, <b>Yao Qiang</b>, Joerg Kliewer, and Dongxiao Zhu
     venue: "AdvML-Frontiers 2023: New Frontiers in Adversarial Machine Learning Workshop at ICML"
@@ -50,6 +42,10 @@ papers:
     venue: "MICCAI 2023: International Conference on Medical Image Computing and Computer Assisted Intervention"
     paper_pdf: "/assets/publications/2023_focalunetr/2023_focalunetr.pdf"
     paper_img: "/assets/publications/2023_focalunetr/2023_focalunetr.png"
-    # code: "https://github.com/ChengyinLee/COVID-MobileXpert"
-    # video: "https://www.youtube.com/watch?v=GWRhMH-N9Tc"
     selected: n
+
+  - title: "Fairness-aware Vision Transformer via Debiased Self-Attention"
+    authors: <b>Yao Qiang</b>, <b>Chengyin Li</b>, Prashant Khanduri, and Dongxiao Zhu
+    paper_pdf: "/assets/publications/2023_fair_ViT/paper_fair_ViT.pdf"
+    paper_img: "/assets/publications/2023_fair_ViT/paper_fair_ViT.png"
+    selected: y
