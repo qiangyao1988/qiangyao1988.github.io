@@ -60,20 +60,21 @@ papers:
 
   - title: "Auto-Prompting SAM for Mobile Friendly 3D Medical Image Segmentation"
     authors: Chengyin Li, Prashant Khanduri, <b>Yao Qiang</b>, Rafi Ibn Sultan, Indrin Chetty, and Dongxiao Zhu
+    venue: "under-review"
     paper_pdf: "/assets/publications/2023_autoprompt/paper_autoprompt.pdf"
     paper_img: "/assets/publications/2023_autoprompt/paper_autoprompt.png"
     selected: n
 
   - title: "Interpretability-Aware Vision Transformer"
     authors: <b>Yao Qiang</b>, Chengyin Li, Prashant Khanduri, and Dongxiao Zhu
-    venue: " "
+    venue: "under-review"
     paper_pdf: "/assets/publications/2023_iaViT/paper_IAViT.pdf"
     paper_img: "/assets/publications/2023_iaViT/paper_IAViT.png"
     selected: y
 
   - title: "Fairness-aware Vision Transformer via Debiased Self-Attention"
     authors: <b>Yao Qiang</b>, Chengyin Li, Prashant Khanduri, and Dongxiao Zhu
-    venue: " "
+    venue: "under-review"
     paper_pdf: "/assets/publications/2023_fair_ViT/paper_fair_ViT.pdf"
     paper_img: "/assets/publications/2023_fair_ViT/paper_fair_ViT.png"
     selected: y
