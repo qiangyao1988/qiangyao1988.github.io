@@ -53,7 +53,7 @@ papers:
 
   - title: "FocalUNETR: A Focal Transformer for Boundary-aware Prostate Segmentation using CT Images"
     authors: Chengyin Li, <b>Yao Qiang</b>, Rafi Lbn Sultan, Hassan Bagher-Ebadian, Prashant Khanduri, Indrin J. Chetty, and Dongxiao Zhu
-    venue: "MICCAI 2023: International Conference on Medical Image Computing and Computer Assisted Intervention"
+    venue: "MICCAI 2023"
     paper_pdf: "/assets/publications/2023_focalunetr/2023_focalunetr.pdf"
     paper_img: "/assets/publications/2023_focalunetr/2023_focalunetr.png"
     selected: n
@@ -66,12 +66,14 @@ papers:
 
   - title: "Interpretability-Aware Vision Transformer"
     authors: <b>Yao Qiang</b>, Chengyin Li, Prashant Khanduri, and Dongxiao Zhu
+    venue: " "
     paper_pdf: "/assets/publications/2023_iaViT/paper_IAViT.pdf"
     paper_img: "/assets/publications/2023_iaViT/paper_IAViT.png"
     selected: y
 
   - title: "Fairness-aware Vision Transformer via Debiased Self-Attention"
     authors: <b>Yao Qiang</b>, Chengyin Li, Prashant Khanduri, and Dongxiao Zhu
+    venue: " "
     paper_pdf: "/assets/publications/2023_fair_ViT/paper_fair_ViT.pdf"
     paper_img: "/assets/publications/2023_fair_ViT/paper_fair_ViT.png"
     selected: y
