@@ -26,8 +26,8 @@ papers:
   - title: "Toward Tag-free Aspect Based Sentiment Analysis: A Multiple Attention Network Approach"
     authors: <b>Yao Qiang</b>, Xin Li, and Dongxiao Zhu
     venue: "IJCNN 2020： International Joint Conference on Neural Networks"
-    paper_pdf: "/assets/publications/2022_absa/paper_absa.pdf"
-    paper_img: "/assets/publications/2022_absa/paper_absa.png"
+    paper_pdf: "/assets/publications/2020_absa/paper_absa.pdf"
+    paper_img: "/assets/publications/2020_absa/paper_absa.png"
     selected: n
 
   - title: "Proximal Composite Optimization for Distributionally Robust Learning"
@@ -59,7 +59,13 @@ papers:
     selected: n
 
   - title: "Fairness-aware Vision Transformer via Debiased Self-Attention"
-    authors: <b>Yao Qiang</b>, <b>Chengyin Li</b>, Prashant Khanduri, and Dongxiao Zhu
+    authors: <b>Yao Qiang</b>, Chengyin Li, Prashant Khanduri, and Dongxiao Zhu
     paper_pdf: "/assets/publications/2023_fair_ViT/paper_fair_ViT.pdf"
     paper_img: "/assets/publications/2023_fair_ViT/paper_fair_ViT.png"
+    selected: y
+
+  - title: "Interpretability-Aware Vision Transformer"
+    authors: <b>Yao Qiang</b>, Chengyin Li, Prashant Khanduri, and Dongxiao Zhu
+    paper_pdf: "/assets/publications/2023_iaViT/paper_IAViT.pdf"
+    paper_img: "/assets/publications/2023_iaViT/paper_IAViT.png"
     selected: y
