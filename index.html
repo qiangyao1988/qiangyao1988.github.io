@@ -145,30 +145,3 @@ title: Home
   <p>Full Resume in <a href={{ "/assets/cv/resume_web.pdf" | prepend: site.baseurl }} target="_blank">PDF</a>.</p>
   <p>Full CV in <a href={{ "/assets/cv/cv_web.pdf" | prepend: site.baseurl }} target="_blank">PDF</a>.</p>
 </div>
-
-<!-- ========== Timeline ========== -->
-<div class="docs-section" id="timeline"></div>
-  <!-- The Timeline -->
-  <ul class="timeline">
-    {% for exp in site.data.experience.experiences %}
-      {% if exp.category == "work" %}
-      <div class="direction-l">
-      {% else %}
-      <div class="direction-r">
-      {% endif %}
-        <div class="flag-wrapper">
-          <span class="flag">{{ exp.place }}</span>
-          <span class="time-wrapper"><span class="time">{{ exp.time }}</span></span>
-        </div>
-        <div class="desc"><b>{{ exp.title }}</b> <br/> {{ exp.subtitle }}</div>
-      </div>
-    </li>
-    {% endfor %}
-  </ul>
-</div>
-<div class="docs-section" id="template">
-  <h4>Acknowledgement</h4>
-  <p>
-    This website uses the website design and template by <a href="https://github.com/msaveski/www_personal">Martin Saveski</a>
-  </p>
-</div>
