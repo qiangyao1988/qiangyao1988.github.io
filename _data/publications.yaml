@@ -16,6 +16,20 @@ papers:
     code: "https://github.com/qiangyao1988/CIA"
     selected: y
 
+  - title: "Tiny RNN Model with Certified Robustness for Text Classification"
+    authors: <b>Yao Qiang</b>, Supriya Tumkur Suresh Kumar, Marco Brocanelli and Dongxiao Zhu
+    venue: "IJCNN 2022： International Joint Conference on Neural Networks"
+    paper_pdf: "/assets/publications/2022_TinyRNN/paper_tinyRNN.pdf"
+    paper_img: "/assets/publications/2022_TinyRNN/paper_tinyRNN.png"
+    selected: n
+
+  - title: "Toward Tag-free Aspect Based Sentiment Analysis: A Multiple Attention Network Approach"
+    authors: <b>Yao Qiang</b>, Xin Li, and Dongxiao Zhu
+    venue: "IJCNN 2020： International Joint Conference on Neural Networks"
+    paper_pdf: "/assets/publications/2022_absa/paper_absa.pdf"
+    paper_img: "/assets/publications/2022_absa/paper_absa.png"
+    selected: n
+
   - title: "Proximal Composite Optimization for Distributionally Robust Learning"
     authors: Prashant Khanduri, Chengyin Li, Rafi Ibn Sultan, <b>Yao Qiang</b>, Joerg Kliewer, and Dongxiao Zhu
     venue: "AdvML-Frontiers 2023: New Frontiers in Adversarial Machine Learning Workshop at ICML"
