@@ -46,8 +46,8 @@ Michael E. Conrad Award (Highest Honor at WSU CS Department)
 
 # 📝 Selected Publications ([full publications here](https://scholar.google.com/citations?user=8ADcg38AAAAJ&hl=en))
 
-## Attcat: Explaining transformers via attentive class activation tokens (NeurIPS 2022)
-**Yao Qiang**, Deng Pan, Chengyin Li, Xin Li, Rhongho Jang, and Dongxiao Zhu [pdf](https://proceedings.neurips.cc/paper_files/paper/2022/file/20e45668fefa793bd9f2edf19be12c4b-Paper-Conference.pdf) [[code]()]
+## [Attcat: Explaining transformers via attentive class activation tokens (NeurIPS 2022)](https://proceedings.neurips.cc/paper_files/paper/2022/file/20e45668fefa793bd9f2edf19be12c4b-Paper-Conference.pdf) 
+**Yao Qiang**, Deng Pan, Chengyin Li, Xin Li, Rhongho Jang, and Dongxiao Zhu
 
 
 
