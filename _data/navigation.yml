@@ -7,14 +7,13 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-research-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#-selected-publications"
 
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Academic Service"
-    url: "/#-academic-service"
-  
+  - title: "Experience"
+    url: "/#-educations"
+
+  - title: "CV"
+    url: "/#-educations"
