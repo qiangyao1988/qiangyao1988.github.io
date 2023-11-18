@@ -77,7 +77,7 @@ Chengyin Li, **Yao Qiang**, Rafi Ibn Sultan, Hassan Bagher-Ebadian, Prashant Kha
 # 📃 Teaching
 - *2020 - 2023*, Invited Lecturer for CSC 5825 Machine Learning&Apps (Graduate Level)
 - *2020 - 2022*, Invited Lecturer for CSC 7825 Machine Learning (Graduate Level)
-- *2021*, Instructor for CSC 3101 Computer Architecture and Organization: Lab 2021
+- *2021*, Instructor for CSC 3101 Computer Architecture and Organization: Lab 
 - *2020*, Instructor for CSC 2111 Computer Science: Lab
 - *2020 - 2022*, Teaching Assistant for CSC 2111 Computer Science, 
 CSC 3101 Computer Architecture and Organization, CSC 5825 Machine Learning&Apps (Graduate Level), 
