@@ -44,11 +44,10 @@ Michael E. Conrad Award (Highest Honor at WSU CS Department)
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**.
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for College Students (Beijing Division), and qualified for the finals.
 
-# 📝 Selected Publications ([[Full publications here](https://scholar.google.com/citations?user=8ADcg38AAAAJ&hl=en)])
+# 📝 Selected Publications ([full publications here](https://scholar.google.com/citations?user=8ADcg38AAAAJ&hl=en))
 
 ## Attcat: Explaining transformers via attentive class activation tokens (NeurIPS 2022)
-**Yao Qiang**, Deng Pan, Chengyin Li, Xin Li, Rhongho Jang, and Dongxiao Zhu
-- [[pdf](https://proceedings.neurips.cc/paper_files/paper/2022/file/20e45668fefa793bd9f2edf19be12c4b-Paper-Conference.pdf)] [[code]()]
+**Yao Qiang**, Deng Pan, Chengyin Li, Xin Li, Rhongho Jang, and Dongxiao Zhu [pdf](https://proceedings.neurips.cc/paper_files/paper/2022/file/20e45668fefa793bd9f2edf19be12c4b-Paper-Conference.pdf) [[code]()]
 
 
 
