@@ -60,15 +60,15 @@ Chengyin Li, **Yao Qiang**, Rafi Ibn Sultan, Hassan Bagher-Ebadian, Prashant Kha
 
 
 # 🎖 Honors and Awards
-- **Michael E. Conrad Award (Highest Honor at WSU CS Department)**, *2023*
-- **AAAI 2023 Student Scholarship**, *2022*
-- **NeurIPS 2022 Scholar Award**, *2022*
-- **Department Travel Award for Outstanding Conference Publications**, *2022*
-- **Graduate Student Professional Travel Award**, *2022*
-- **IEEE CIS Conference Participation and Travel Grants**, *2022*
-- **IJCAI 2022 Travel and Accessibility Grant**, *2022*
-- **Department Oustanding GTA Award**, *2020*
-- **Graduate School Master’s Scholarship Award**, *2019*
+- Michael E. Conrad Award (Highest Honor at WSU CS Department), *2023*
+- AAAI 2023 Student Scholarship, *2022*
+- NeurIPS 2022 Scholar Award, *2022*
+- Department Travel Award for Outstanding Conference Publications, *2022*
+- Graduate Student Professional Travel Award, *2022*
+- IEEE CIS Conference Participation and Travel Grants, *2022*
+- IJCAI 2022 Travel and Accessibility Grant, *2022*
+- Department Oustanding GTA Award, *2020*
+- Graduate School Master’s Scholarship Award, *2019*
 
 
 # 📖 Educations
