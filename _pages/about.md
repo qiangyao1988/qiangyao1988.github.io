@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year undergraduate at School of Mathematical Sciences, Peking University.
-Currently, I am a visiting student at UC Berkeley.
-I am interested in improving the trustworthiness of Machine Learning, specifically focusing on adversarial robustness and explainability.
+I am currently in the fifth year of my Ph.D. program in the Department of Computer Science at Wayne State University, 
+where I work in the Trustworthy AI lab under the supervision of <a href="https://dongxiaozhu.github.io/" target="_blank"> Dr. Dongxiao Zhu</a>. 
+My research mainly focuses on Natural Language Processing (NLP)&Large Language Models (LLMs), Trustworthy Artificial Intelligence (AI), and Machine Learning Theory & Applications. 
+My dedication to these areas has led to the publication of numerous research papers at top AI conferences, including NeurIPS, IJCAI, AAAI, ICML, MICCAI, and IJCNN, among others. 
+I have a strong passion for research and a demonstrated ability to apply my knowledge to real-world challenges.
 
 # 🔥 News
 - *2023.10*: &nbsp;✨ New [preprint](https://arxiv.org/abs/2310.06387) on **LLM Safety** is available at arxiv.
@@ -36,7 +38,6 @@ I am interested in improving the trustworthiness of Machine Learning, specifical
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for College Students (Beijing Division), and qualified for the finals.
 
 # 📝 Selected Papers
-(\*: Equal Contribution; ${}^\dagger$: Corresponding Author)
 
 ## Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations (Preprint)
 **Zeming Wei**, Yifei Wang, Yisen Wang${}^\dagger$
@@ -66,38 +67,31 @@ I am interested in improving the trustworthiness of Machine Learning, specifical
 - Further propose two applications (pretraining and adversarial attack) on RNNs with the embedding
 - [[pdf](https://arxiv.org/pdf/2306.14040)] [[arxiv](https://arxiv.org/abs/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
 
-
-# 💡 Patents
-## An image classification method based on fair and robust neural networks *(patent pending)*
-Yisen Wang and **Zeming Wei**
-- Publication ID: CN116091838A
-- [[Publication announcement](http://epub.cnipa.gov.cn/patent/CN116091838A)]
-
 # 🎖 Honors and Awards
-- **Award for Academic Innovation (Top 0.1%)**, Peking University, *2023*
-- **Merit Student (Top 10%)**, Peking University, *2023*
-- **University Scholarship**, Peking University, *2023*
-- **Second prize**, Chinese Mathematics Competitions for Undergraduates (National Final), *2023*
-- **First prize**, Chinese Mathematics Competitions for Undergraduates (Beijing Division), *2022*
-- **Merit Student (Top 10%)**, Peking University, *2022*
-- **University Scholarship**, Peking University, *2022*
-- **Award for Contribution in Student Organizations**, Peking University, *2021*
-- **University Scholarship**, Peking University, *2021*
+- **Michael E. Conrad Award (Highest Honor at WSU CS Department)**, *2023*
+- **AAAI 2023 Student Scholarship**, *2022*
+- **NeurIPS 2022 Scholar Award**, *2022*
+- **Department Travel Award for Outstanding Conference Publications**, *2022*
+- **Graduate Student Professional Travel Award**, *2022*
+- **IEEE CIS Conference Participation and Travel Grants**, *2022*
+- **IJCAI 2022 Travel and Accessibility Grant**, *2022*
+- **Department Oustanding GTA Award**, *2020*
+- **Graduate School Master’s Scholarship Award**, *2019*
+
 
 # 📖 Educations
-- *2023.08 - 2023.12 (expected)*, Visiting Student, University of California Berkeley
-- *2021.06 - 2025.06 (expected)*, Undergraduate Student, School of Mathematical Sciences, Peking University
-- *2020.09 - 2021.06*, Undergraduate Student, College of Engineering, Peking University
-- *2017.09 - 2020.06*, Senior High School Student, Beijing No.4 High School
+- *2019.09 - 2024.05 (expected)*, Doctor of Philosophy in Computer Science, Wayne State University
+- *2018.09 - 2019.12*, Master of Science in Computer Science, Wayne State University
+- *2006.09 - 2010.07*, Bachelor of Science in Computer Science, Wayne State University
 
 # 💼 Academic Service
-- **Journal Reviewer**: TMLR
-- **Conference Reviewer**: NeurIPS 2023, ICLR 2024, AISTATS 2024
-- **Workshop Reviewer**: XAIA (@NeurIPS 2023)
-- **Fellow**, Berkeley AI Safety Initiative for Students (BASIS), UC Berkeley
+- **Program Committee Member**: SDM 2023, KDD 2023, AAAI 2022-2023, ICML 2022-2023
+- **Journal Reviewer**: TKDD 2023, AI 2022, TIOT 2021
+- **Conference Reviewer**: SDM 2023, KDD 2023, CVPR 2023, AAAI 2020-2023, NeurIPS 2020-2023, ICLR 2022-2023, IJCAI 2021-2023, MICCAI 2022-2023, ICML 2022-2023
+- **Conference Student Volunteering**, AAAI 2023, NeurIPS 2022, IJCAI 2022, IJCNN 2022
 
 # 🔗 Links
 (Alphabetical Order)
-- 👨‍🏫 **Advisors**: [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), [Yisen Wang](https://yisenwang.github.io)
-- 🧑‍🎓 **Co-authors**: [Huanran Chen](https://huanranchen.github.io), [Yifei Wang](https://yifeiwang77.com), [Xiyue Zhang](https://zhang-xiyue.github.io/), [Yihao Zhang](https://zhang-yihao.github.io/)
-
+- 👨‍🏫 **Advisors**: [Dongxiao Zhu](https://dongxiaozhu.github.io/)
+- 🧑‍🎓 **Co-authors**: [Marco Brocanelli](),[Chengyi Li](), [Xin Li](), [Prashant Khanduri](), [Deng Pan]()
+- 💻**Lab**: [Trustworthy Lab](https://sites.google.com/view/mlpa/mainpage)
