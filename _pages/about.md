@@ -35,7 +35,7 @@ I have a strong passion for research and a demonstrated ability to apply my know
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for College Students (Beijing Division), and qualified for the finals.
 
 # 📝 Publications 
-## [full publications here](https://scholar.google.com/citations?user=8ADcg38AAAAJ&hl=en)
+## [Full publications here](https://scholar.google.com/citations?user=8ADcg38AAAAJ&hl=en)
 
 ## [Attcat: Explaining transformers via attentive class activation tokens (NeurIPS 2022)](https://proceedings.neurips.cc/paper_files/paper/2022/file/20e45668fefa793bd9f2edf19be12c4b-Paper-Conference.pdf) 
 **Yao Qiang**, Deng Pan, Chengyin Li, Xin Li, Rhongho Jang, and Dongxiao Zhu
@@ -76,10 +76,21 @@ Chengyin Li, **Yao Qiang**, Rafi Ibn Sultan, Hassan Bagher-Ebadian, Prashant Kha
 - *2018.09 - 2019.12*, Master of Science in Computer Science, Wayne State University
 - *2006.09 - 2010.07*, Bachelor of Science in Computer Science, Wayne State University
 
-# 📖 Experience
-- *2019.09 - 2024.05 (expected)*, Doctor of Philosophy in Computer Science, Wayne State University
-- *2018.09 - 2019.12*, Master of Science in Computer Science, Wayne State University
-- *2006.09 - 2010.07*, Bachelor of Science in Computer Science, Wayne State University
+# 💻 Experience
+- *2019.09 - Present*, Graduate Research Assistant, Trustworthy AI Lab, Wayne State University
+- *2023.05 - 2023.08*, Applied Scientist Intern, Trustworthy AI Lab, Robust and Modeling Team, Alexa, Amazon
+- *2018.08 - 2019.08*, Student Research Assistant, Part-time, Mike Ilitch School of Business, Wayne State University
+- *2010.08 - 2017.12*, Computer Hardware Designer, Xi’an Microelectronics Technology Institute
+
+# 📃 Teaching
+- *2020 - 2023*, Invited Lecturer for CSC 5825 Machine Learning&Apps (Graduate Level)
+- *2020 - 2022*, Invited Lecturer for CSC 7825 Machine Learning (Graduate Level)
+- *2021*, Instructor for CSC 3101 Computer Architecture and Organization: Lab 2021
+- *2020*, Instructor for CSC 2111 Computer Science: Lab
+- *2020 - 2022*, Teaching Assistant for CSC 2111 Computer Science, 
+CSC 3101 Computer Architecture and Organization, CSC 5825 Machine Learning&Apps (Graduate Level), 
+Design and Analysis of Algorithms (Graduate Level), CSC 7825 Machine Learning (Graduate Level)
+
 
 # 💼 Academic Service
 - **Program Committee Member**: SDM 2023, KDD 2023, AAAI 2022-2023, ICML 2022-2023
