@@ -48,11 +48,24 @@ Michael E. Conrad Award (Highest Honor at WSU CS Department)
 
 ## [Attcat: Explaining transformers via attentive class activation tokens (NeurIPS 2022)](https://proceedings.neurips.cc/paper_files/paper/2022/file/20e45668fefa793bd9f2edf19be12c4b-Paper-Conference.pdf) 
 **Yao Qiang**, Deng Pan, Chengyin Li, Xin Li, Rhongho Jang, and Dongxiao Zhu
-
-
-
-
-
+## [Counterfactual interpolation augmentation (CIA): A unified approach to enhance fairness and explainability of DNN (IJCAI 2022)](https://www.ijcai.org/proceedings/2022/0103.pdf) 
+**Yao Qiang**, Chengyin Li, Marco Brocanelli, and Dongxiao Zhu
+## [Prompt Perturbation Consistency Learning (PPCL) for Robust Language Models (Pre-print)]() 
+**Yao Qiang**, et.al.,
+## [Hijacking Large Language Models via Adversarial In-Context Learning (Pre-print)](https://arxiv.org/pdf/2311.09948.pdf) 
+**Yao Qiang**, Xiangyu Zhou, and Dongxiao Zhu
+## [Fairness-aware Vision Transformer via Debiased Self-Attention (Pre-print)](https://arxiv.org/pdf/2301.13803.pdf) 
+**Yao Qiang**, Chengyin Li, Prashant Khanduri, and Dongxiao Zhu
+## [Tiny rnn model with certified robustness for text classification (IJCNN 2022)](https://ieeexplore.ieee.org/abstract/document/9892117) 
+**Yao Qiang**, Supriya Tumkur Suresh Kumar, Marco Brocanelli, and Dongxiao Zhu
+## [Toward tag-free aspect based sentiment analysis: A multiple attention network approach (IJCNN 2020)](https://ieeexplore.ieee.org/abstract/document/9207426) 
+**Yao Qiang**, Xin Li, and Dongxiao Zhu
+## [Learning compact features via in-training representation alignment (AAAI 2023)](https://ojs.aaai.org/index.php/AAAI/article/view/26044) 
+Xin Li, Xiangrui Li, Deng Pan, **Yao Qiang**, and Dongxiao Zhuu
+## [Negative Flux Aggregation to Estimate Feature Attributions (IJCAI 2023)](https://arxiv.org/pdf/2301.06989.pdf) 
+Xin Li, Deng Pan, Chengyin Li, **Yao Qiang**, and Dongxiao Zhu
+## [FocalUNETR: A Focal Transformer for Boundary-Aware Prostate Segmentation Using CT Images (MICCAI 2022)](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_57) 
+Chengyin Li, **Yao Qiang**, Rafi Ibn Sultan, Hassan Bagher-Ebadian, Prashant Khanduri, Indrin J. Chetty, and Dongxiao Zhu
 
 
 # 🎖 Honors and Awards
