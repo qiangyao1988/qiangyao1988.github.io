@@ -19,14 +19,21 @@ redirect_from:
 
 I am currently in the fifth year of my Ph.D. program in the Department of Computer Science at Wayne State University, 
 where I work in the Trustworthy AI lab under the supervision of <a href="https://dongxiaozhu.github.io/" target="_blank"> Dr. Dongxiao Zhu</a>. 
-My research mainly focuses on Natural Language Processing (NLP)&Large Language Models (LLMs), Trustworthy Artificial Intelligence (AI), and Machine Learning Theory & Applications. 
+My research mainly focuses on Natural Language Processing (NLP), Large Language Models (LLMs), Trustworthy Artificial Intelligence (AI), and Machine Learning Theory and Applications. 
 My dedication to these areas has led to the publication of numerous research papers at top AI conferences, including NeurIPS, IJCAI, AAAI, ICML, MICCAI, and IJCNN, among others. 
 I have a strong passion for research and a demonstrated ability to apply my knowledge to real-world challenges.
 
+Michael E. Conrad Award (Highest Honor at WSU CS Department)
+
+
 # 🔥 News
-- *2023.10*: &nbsp;✨ New [preprint](https://arxiv.org/abs/2310.06387) on **LLM Safety** is available at arxiv.
-- *2023.09*: &nbsp;🎖 I won the **Award for Academic Innovation** in the academic year 2022-2023 (**only 1 awardee** among undergraduates in School of Mathematical Sciences, Peking University, **Top 0.1%**).
-- *2023.08*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Logical and Algebraic Methods in Programming**.
+- *2023.11*: &nbsp;✨ New [preprint](https://arxiv.org/pdf/2311.09948.pdf) on **LLM Safety** is available at arxiv.
+- *2023.09*: &nbsp;🎖 I won the **Michael E. Conrad Award** in the academic year 2022-2023 (**only 1 awardee** among graduates in Department of Computer Science, Wayne State University).
+- *2023.05*: &nbsp;💼 I started my **Applied Scientist Internship at Amazon**, working on **LLM Safety**.
+- *2023.11*: &nbsp;✨ New [preprint](https://arxiv.org/pdf/2311.09948.pdf) on **LLM Safety** is available at arxiv.
+
+
+- *2023.05*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Logical and Algebraic Methods in Programming**.
 - *2023.08*: &nbsp;🏫 I started a visiting student program at **UC Berkeley** in Fall 2023.
 - *2023.07*: &nbsp;🏖 I attended **ICML 2023** at Honolulu and illustrated our workshop poster.
 - *2023.07*: &nbsp;🔍 I reviewed 11 papers for **NeurIPS 2023** (9 regular + 2 ethics).
@@ -37,35 +44,17 @@ I have a strong passion for research and a demonstrated ability to apply my know
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**.
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for College Students (Beijing Division), and qualified for the finals.
 
-# 📝 Selected Papers
+# 📝 Selected Publications ([[Full publications here](https://scholar.google.com/citations?user=8ADcg38AAAAJ&hl=en)])
 
-## Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations (Preprint)
-**Zeming Wei**, Yifei Wang, Yisen Wang${}^\dagger$
-- Uncover the vulnerability and robustness of aligned language models under only few in-context demonstrations without fine-tuning
-- Propose In-Context Attack (ICA) and In-Context Defense (ICD) to jailbreak and guard aligned language models
-- Shed light on the potential of in-context learning (ICL) to manipulate the alignment of LLMs
-- [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)]
+## Attcat: Explaining transformers via attentive class activation tokens (NeurIPS 2022)
+**Yao Qiang**, Deng Pan, Chengyin Li, Xin Li, Rhongho Jang, and Dongxiao Zhu
+- [[pdf](https://proceedings.neurips.cc/paper_files/paper/2022/file/20e45668fefa793bd9f2edf19be12c4b-Paper-Conference.pdf)] [[code]()]
 
-## CFA: Class-wise Calibrated Fair Adversarial Training (CVPR 2023)
-**Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang${}^\dagger$
-- Theoretically and empirically investigate the preference of different classes for adversarial configurations in Adversarial Training (AT)
-- Propose a CFA framework that customizes specific training configurations for each class automatically
-- CFA improves both overall robustness and fairness, and can be easily incorporated into other AT variants
-- [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_CFA_Class-Wise_Calibrated_Fair_Adversarial_Training_CVPR_2023_paper.pdf)] [[arxiv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]
 
-## Sharpness-Aware Minimization Alone can Improve Adversarial Robustness (ICML 2023 Workshop)
-**Zeming Wei\*${}^{\boldsymbol\dagger}$**, Jingyu Zhu\*, Yihao Zhang\*
-- Theoretically show that using Sharpness-Aware Minimization (SAM) can improve adversarial robustness
-- Empirically illustrate that SAM can improve robustness with a friendly computational cost and no decrease in natural accuracy
-- Propose that SAM can be regarded as a lightweight substitute for AT under certain requirements
-- [[pdf](https://arxiv.org/pdf/2305.05392)] [[arxiv](https://arxiv.org/abs/2305.05392)] [[code](https://github.com/weizeming/SAM_AT)]
 
-## Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks (Journal of Logical and Algebraic Methods in Programming)
-**Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun${}^\dagger$
-- Extending WFA extraction methods of RNNs from formal to natural language tasks by identifying transition sparsity and context dependency problems
-- Propose an RNN interpretation framework with a transition-based word embedding of the extracted automata  
-- Further propose two applications (pretraining and adversarial attack) on RNNs with the embedding
-- [[pdf](https://arxiv.org/pdf/2306.14040)] [[arxiv](https://arxiv.org/abs/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
+
+
+
 
 # 🎖 Honors and Awards
 - **Michael E. Conrad Award (Highest Honor at WSU CS Department)**, *2023*
