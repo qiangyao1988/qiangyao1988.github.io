@@ -23,9 +23,6 @@ My research mainly focuses on Natural Language Processing (NLP), Large Language 
 My dedication to these areas has led to the publication of numerous research papers at top AI conferences, including NeurIPS, IJCAI, AAAI, ICML, MICCAI, and IJCNN, among others. 
 I have a strong passion for research and a demonstrated ability to apply my knowledge to real-world challenges.
 
-Michael E. Conrad Award (Highest Honor at WSU CS Department)
-
-
 # 🔥 News
 - *2023.11*: &nbsp;✨ New [preprint](https://arxiv.org/pdf/2311.09948.pdf) on **LLM Safety** is available at arxiv.
 - *2023.09*: &nbsp;🎖 I won the **Michael E. Conrad Award** in the academic year 2022-2023 (**only 1 awardee** among graduates in Department of Computer Science, Wayne State University).
@@ -44,7 +41,7 @@ Michael E. Conrad Award (Highest Honor at WSU CS Department)
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**.
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for College Students (Beijing Division), and qualified for the finals.
 
-# 📝 Selected Publications ([full publications here](https://scholar.google.com/citations?user=8ADcg38AAAAJ&hl=en))
+# 📝 Publications ([full publications here](https://scholar.google.com/citations?user=8ADcg38AAAAJ&hl=en))
 
 ## [Attcat: Explaining transformers via attentive class activation tokens (NeurIPS 2022)](https://proceedings.neurips.cc/paper_files/paper/2022/file/20e45668fefa793bd9f2edf19be12c4b-Paper-Conference.pdf) 
 **Yao Qiang**, Deng Pan, Chengyin Li, Xin Li, Rhongho Jang, and Dongxiao Zhu
@@ -81,6 +78,11 @@ Chengyin Li, **Yao Qiang**, Rafi Ibn Sultan, Hassan Bagher-Ebadian, Prashant Kha
 
 
 # 📖 Educations
+- *2019.09 - 2024.05 (expected)*, Doctor of Philosophy in Computer Science, Wayne State University
+- *2018.09 - 2019.12*, Master of Science in Computer Science, Wayne State University
+- *2006.09 - 2010.07*, Bachelor of Science in Computer Science, Wayne State University
+
+# 📖 Experience
 - *2019.09 - 2024.05 (expected)*, Doctor of Philosophy in Computer Science, Wayne State University
 - *2018.09 - 2019.12*, Master of Science in Computer Science, Wayne State University
 - *2006.09 - 2010.07*, Bachelor of Science in Computer Science, Wayne State University
