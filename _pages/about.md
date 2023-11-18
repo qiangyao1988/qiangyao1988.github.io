@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 I am currently in the fifth year of my Ph.D. program in the Department of Computer Science at Wayne State University, 
@@ -41,7 +34,8 @@ I have a strong passion for research and a demonstrated ability to apply my know
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**.
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for College Students (Beijing Division), and qualified for the finals.
 
-# 📝 Publications ([full publications here](https://scholar.google.com/citations?user=8ADcg38AAAAJ&hl=en))
+# 📝 Publications 
+## [full publications here](https://scholar.google.com/citations?user=8ADcg38AAAAJ&hl=en)
 
 ## [Attcat: Explaining transformers via attentive class activation tokens (NeurIPS 2022)](https://proceedings.neurips.cc/paper_files/paper/2022/file/20e45668fefa793bd9f2edf19be12c4b-Paper-Conference.pdf) 
 **Yao Qiang**, Deng Pan, Chengyin Li, Xin Li, Rhongho Jang, and Dongxiao Zhu
