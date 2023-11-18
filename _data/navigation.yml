@@ -7,13 +7,13 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-selected-publications"
+    url: "/#-publications"
 
   - title: "Educations"
     url: "/#-educations"
 
   - title: "Experience"
-    url: "/#-educations"
+    url: "/#-experience"
 
   - title: "CV"
-    url: "/#-educations"
+    url: "/#-cv"

@@ -93,6 +93,12 @@ Chengyin Li, **Yao Qiang**, Rafi Ibn Sultan, Hassan Bagher-Ebadian, Prashant Kha
 - **Conference Reviewer**: SDM 2023, KDD 2023, CVPR 2023, AAAI 2020-2023, NeurIPS 2020-2023, ICLR 2022-2023, IJCAI 2021-2023, MICCAI 2022-2023, ICML 2022-2023
 - **Conference Student Volunteering**, AAAI 2023, NeurIPS 2022, IJCAI 2022, IJCNN 2022
 
+# 💼 CV
+- **Program Committee Member**: SDM 2023, KDD 2023, AAAI 2022-2023, ICML 2022-2023
+- **Journal Reviewer**: TKDD 2023, AI 2022, TIOT 2021
+- **Conference Reviewer**: SDM 2023, KDD 2023, CVPR 2023, AAAI 2020-2023, NeurIPS 2020-2023, ICLR 2022-2023, IJCAI 2021-2023, MICCAI 2022-2023, ICML 2022-2023
+- **Conference Student Volunteering**, AAAI 2023, NeurIPS 2022, IJCAI 2022, IJCNN 2022
+
 # 🔗 Links
 (Alphabetical Order)
 - 👨‍🏫 **Advisors**: [Dongxiao Zhu](https://dongxiaozhu.github.io/)
