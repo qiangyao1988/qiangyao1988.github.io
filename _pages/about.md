@@ -102,7 +102,7 @@ Design and Analysis of Algorithms (Graduate Level), CSC 7825 Machine Learning (G
 
 
 # 💼 CV
-- **[pdf](yao_cv.pdf)**
+- **[PDF](yao_cv.pdf)**
 
 # 🔗 Links
 - 👨‍🏫 **Advisors**: [Dongxiao Zhu](https://dongxiaozhu.github.io/)
@@ -111,4 +111,4 @@ Design and Analysis of Algorithms (Graduate Level), CSC 7825 Machine Learning (G
 
 
 # 📄 Blogs
-### [Hijacking Large Language Models via Adversarial In-Context Learning](https://qiangyao1988.github.io/posts/2023-12-09-hijack-llm/) 
+- [Hijacking Large Language Models via Adversarial In-Context Learning](https://qiangyao1988.github.io/posts/2023-12-09-hijack-llm/) 
