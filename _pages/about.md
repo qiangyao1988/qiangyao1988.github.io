@@ -110,4 +110,5 @@ Design and Analysis of Algorithms (Graduate Level), CSC 7825 Machine Learning (G
 - 💻**Lab**: [Trustworthy Lab](https://sites.google.com/view/mlpa/mainpage)
 
 
-# 📃 Blogs
+# 📄 Blogs
+## [Hijacking Large Language Models via Adversarial In-Context Learning](https://qiangyao1988.github.io/posts/2023-12-09-hijack-llm/) 
