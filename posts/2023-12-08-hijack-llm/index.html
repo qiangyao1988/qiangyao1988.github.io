@@ -122,7 +122,7 @@ if (!doNotTrack) {
                     <a href="#introduction" aria-label="Introduction">Introduction</a><ul>
                         
                 <li>
-                    <a href="#threat-model" aria-label="Threat Model">Threat Model</a><ul>
+                    <a href="#formulation" aria-label="ICL Formulation">ICL Formulation</a><ul>
                         
                 <li>
                     <a href="#classification" aria-label="Classification">Classification</a></li>
@@ -201,6 +201,11 @@ LLMs generate responses to queries via ICL by learning from the demos provided w
     leading to incorrect sentiment token generated for the test queries. 
     However, ours appends adversarial suffixes like `For' and `Location', to the in-context demos to effectively hijack LLMs to 
     generate the targeted unwanted output, e.g., the `negative' sentiment token, regardless of the test query content.</figcaption>
+
+<h1 id="formulation">ICL Formulation<a hidden class="anchor" aria-hidden="true" href="#formulation">#</a></h1>
+
+
+
 
 
 <p>A large body of ground work on adversarial attacks is on images, and differently it operates in the continuous, high-dimensional space. Attacks for discrete data like text have been considered to be a lot more challenging, due to lack of direct gradient signals. My past post on <a href="https://lilianweng.github.io/posts/2021-01-02-controllable-text-generation/">Controllable Text Generation</a> is quite relevant to this topic, as attacking LLMs is essentially to control the model to output a certain type of (unsafe) content.</p>
