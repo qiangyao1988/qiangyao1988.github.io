@@ -166,7 +166,8 @@ if (!doNotTrack) {
 <p>In-context learning (ICL) is an emerging technique for rapidly adapting large language models (LLMs), i.e., GPT-4 and LLaMA2, to new tasks without fine-tuning the pre-trained models 
 (<a href="https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf">Brown et al, 2020</a>). 
 The key idea behind ICL is to provide LLMs with labeled examples as in-context demonstrations (demos) within the prompt context before a test query. 
-LLMs thus generate responses to queries via ICL by learning from the demos</p>
+LLMs thus generate responses to queries via ICL by learning from the demos provided within the context
+(<a href="https://arxiv.org/pdf/2301.00234.pdf">Dong et al, 2022</a>).</p>
 <p>A large body of ground work on adversarial attacks is on images, and differently it operates in the continuous, high-dimensional space. Attacks for discrete data like text have been considered to be a lot more challenging, due to lack of direct gradient signals. My past post on <a href="https://lilianweng.github.io/posts/2021-01-02-controllable-text-generation/">Controllable Text Generation</a> is quite relevant to this topic, as attacking LLMs is essentially to control the model to output a certain type of (unsafe) content.</p>
 <p>There is also a branch of work on attacking LLMs to extract pre-training data, private knowledge (<a href="https://arxiv.org/abs/2012.07805">Carlini et al, 2020</a>) or attacking model training process via data poisoning (<a href="https://arxiv.org/abs/2302.10149">Carlini et al. 2023</a>). We would not cover those topics in this post.</p>
 <h1 id="basics">Basics<a hidden class="anchor" aria-hidden="true" href="#basics">#</a></h1>
