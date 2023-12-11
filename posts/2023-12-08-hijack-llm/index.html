@@ -203,9 +203,33 @@ LLMs generate responses to queries via ICL by learning from the demos provided w
     generate the targeted unwanted output, e.g., the `negative' sentiment token, regardless of the test query content.</figcaption>
 
 <h1 id="formulation">ICL Formulation<a hidden class="anchor" aria-hidden="true" href="#formulation">#</a></h1>
-
-
-
+<p>Formally, ICL is characterized as a problem involving the conditional generation of text, where an LLM $\mathcal{M}$ is employed to 
+    generate response $y_Q$ given an optimal task instruction $I$, a demo set $C$, 
+    and an input query $x_Q$. $I$ specifies the downstream task that $\mathcal{M}$ should perform, 
+    e.g., ``Choose sentiment from positive or negative" used in our sentiment token generation task 
+    or ``Classify the topic of the last review" used in our topic token generation task. 
+    $C$ consists of $N$ (e.g., 8) concatenated data-label pairs following a specific template $S$, 
+    formally: $C = [S(x_1, y_1);\  \cdots; \ S(x_N, y_N)]$, `;' here denotes the concatenation operator. 
+    Thus, given the input prompt as $p = [I;\ C;\ S(x_Q,\_)]$, $\mathcal{M}$ generates the response 
+    $y = \mathcal{M}(p)$. $S(x_Q, \_)$ means using the same template as the demos but with the label empty.</p>
+<p>This work mainly focuses on using text classification tasks to demonstrate the effectiveness 
+    of our LLM hijacking attack via adversarial in-context learning. 
+    To adapt the generative LLMs for the discriminative classification tasks, we configure $\mathcal{M}$ to generate 
+    the response $y$ from a set of candidate class labels denoted as $\mathcal{Y} = \{y_1, \cdots, y_j, \cdots, y_K\}$. 
+    $y_j$ here represents the label for the $j$-th class. $K$ denotes the total number of classes. For ease of use, 
+    we define a verbalizer function, denoted as $\mathcal{V}$, which maps each of the class labels, 
+    i.e., $y_j$, to a corresponding specific token represented as $\mathcal{V}(y_j)$. 
+    This verbalizer function serves to establish a link between the class labels and their corresponding tokens, 
+    facilitating the generative LLMs' handling of the discriminative classification task.</p>
+<p>Given the input prompt $p$, the LLM $\mathcal{M}$ first generates the logits $\mathbf{z}$ of the next token. 
+    The logits $z_j$, which represents the probability of the class $y_j$ of the token $\mathcal{V}(y_j)$, is formulated as:
+$$
+    z_j = \mathcal{M}(\mathcal{V}(y_j)|p).
+$$ 
+Then, the final generation result $y_Q$ is the label with the highest logits probability: 
+$$
+    y = \underset{y_j \in \mathcal{Y}}{\arg\mathrm{max}} \mathcal{M}(\mathcal{V}(y_j)|p). 
+$$</p>
 
 
 <p>A large body of ground work on adversarial attacks is on images, and differently it operates in the continuous, high-dimensional space. Attacks for discrete data like text have been considered to be a lot more challenging, due to lack of direct gradient signals. My past post on <a href="https://lilianweng.github.io/posts/2021-01-02-controllable-text-generation/">Controllable Text Generation</a> is quite relevant to this topic, as attacking LLMs is essentially to control the model to output a certain type of (unsafe) content.</p>
