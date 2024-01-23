@@ -48,7 +48,7 @@ I have a strong passion for research and a demonstrated ability to apply my know
 **Yao Qiang**, Deng Pan, Chengyin Li, Xin Li, Rhongho Jang, and Dongxiao Zhu
 ## [Counterfactual interpolation augmentation (CIA): A unified approach to enhance fairness and explainability of DNN (IJCAI 2022)](https://www.ijcai.org/proceedings/2022/0103.pdf) 
 **Yao Qiang**, Chengyin Li, Marco Brocanelli, and Dongxiao Zhu
-## [Prompt Perturbation Consistency Learning (PPCL) for Robust Language Models (EACL 2024)]() 
+## [Prompt Perturbation Consistency Learning (PPCL) for Robust Language Models (Pre-print)]() 
 **Yao Qiang**, et.al.,
 ## [Hijacking Large Language Models via Adversarial In-Context Learning (Pre-print)](https://arxiv.org/pdf/2311.09948.pdf) 
 **Yao Qiang**, Xiangyu Zhou, and Dongxiao Zhu
