@@ -17,6 +17,7 @@ My dedication to these areas has led to the publication of numerous research pap
 I have a strong passion for research and a demonstrated ability to apply my knowledge to real-world challenges.
 
 # 🔥 News
+- *2024.01*: &nbsp;🎉 1 Paper accepted by **EACL 2024**.
 - *2024.01*: &nbsp;🎉 1 Paper accepted by **ACM The Web Conference 2024**.
 - *2023.12*: &nbsp;✨ I passed the exam of the prospectus of my Ph.D dissertation. 
 - *2023.11*: &nbsp;✨ New [preprint](https://arxiv.org/pdf/2311.09948.pdf) on **LLM Safety** is available at arxiv.
