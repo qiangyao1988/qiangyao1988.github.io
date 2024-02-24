@@ -111,7 +111,3 @@ Design and Analysis of Algorithms (Graduate Level), CSC 7825 Machine Learning (G
 - 👨‍🏫 **Advisors**: [Dongxiao Zhu](https://dongxiaozhu.github.io/)
 - 🧑‍🎓 **Co-authors**: [Marco Brocanelli](),[Chengyi Li](), [Xin Li](), [Prashant Khanduri](), [Deng Pan]()
 - 💻**Lab**: [Trustworthy Lab](https://sites.google.com/view/mlpa/mainpage)
-
-
-# 📄 Blogs
-- [Hijacking Large Language Models via Adversarial In-Context Learning](https://qiangyao1988.github.io/posts/2023-12-08-hijack-llm/) 
