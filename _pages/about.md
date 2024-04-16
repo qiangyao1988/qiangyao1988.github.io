@@ -16,7 +16,11 @@ My research mainly focuses on Natural Language Processing (NLP), Large Language 
 My dedication to these areas has led to the publication of numerous research papers at top AI conferences, including NeurIPS, IJCAI, AAAI, ICML, MICCAI, and IJCNN, among others. 
 I have a strong passion for research and a demonstrated ability to apply my knowledge to real-world challenges.
 
+I am looking for self-motivated Master/Ph.D. students to join my group for Winter/Fall 2025. If you are interested in Trustworthy AI, NLP, LLMs, and Generative AI, please feel free to send me an email with your CV.
+
 # 🔥 News
+- *2024.04*: &nbsp;💼 I will be joining will be joining the Computer Science and Enineering Department of School of Engineering and Computer Science at Oakland University as a Tenure-track Assistant Professor in Fall 2024.
+- *2024.02*: &nbsp;✨ New [preprint](https://arxiv.org/pdf/2402.13459.pdf) on **LLM Safety** is available at arxiv.
 - *2024.01*: &nbsp;🎉 1 Paper accepted by **EACL 2024**.
 - *2024.01*: &nbsp;🎉 1 Paper accepted by **ACM The Web Conference 2024**.
 - *2023.12*: &nbsp;✨ I passed the exam of the prospectus of my Ph.D dissertation. 
@@ -45,12 +49,14 @@ I have a strong passion for research and a demonstrated ability to apply my know
 
 # 📝 Publications 
 ## [Full publications here](https://scholar.google.com/citations?user=8ADcg38AAAAJ&hl=en)
+## [Prompt Perturbation Consistency Learning (PPCL) for Robust Language Models (EACL 2024)](https://arxiv.org/pdf/2402.15833.pdf) 
+**Yao Qiang**, Subhrangshu Nandi, Ninareh Mehrabi, Greg Ver Steeg, Anoop Kumar, Anna Rumshisky, and Aram Galstyan
 ## [Attcat: Explaining transformers via attentive class activation tokens (NeurIPS 2022)](https://proceedings.neurips.cc/paper_files/paper/2022/file/20e45668fefa793bd9f2edf19be12c4b-Paper-Conference.pdf) 
 **Yao Qiang**, Deng Pan, Chengyin Li, Xin Li, Rhongho Jang, and Dongxiao Zhu
 ## [Counterfactual interpolation augmentation (CIA): A unified approach to enhance fairness and explainability of DNN (IJCAI 2022)](https://www.ijcai.org/proceedings/2022/0103.pdf) 
 **Yao Qiang**, Chengyin Li, Marco Brocanelli, and Dongxiao Zhu
-## [Prompt Perturbation Consistency Learning (PPCL) for Robust Language Models (Pre-print)]() 
-**Yao Qiang**, et.al.,
+## [Learning to Poison Large Language Models During Instruction Tuning (Pre-print)](https://arxiv.org/pdf/2402.13459.pdf) 
+**Yao Qiang**, Xiangyu Zhou, Saleh Zare Zade, Mohammad Amin Roshani, Douglas Zytko, Dongxiao Zhu
 ## [Hijacking Large Language Models via Adversarial In-Context Learning (Pre-print)](https://arxiv.org/pdf/2311.09948.pdf) 
 **Yao Qiang**, Xiangyu Zhou, and Dongxiao Zhu
 ## [Fairness-aware Vision Transformer via Debiased Self-Attention (Pre-print)](https://arxiv.org/pdf/2301.13803.pdf) 
@@ -59,6 +65,8 @@ I have a strong passion for research and a demonstrated ability to apply my know
 **Yao Qiang**, Supriya Tumkur Suresh Kumar, Marco Brocanelli, and Dongxiao Zhu
 ## [Toward tag-free aspect based sentiment analysis: A multiple attention network approach (IJCNN 2020)](https://ieeexplore.ieee.org/abstract/document/9207426) 
 **Yao Qiang**, Xin Li, and Dongxiao Zhu
+## [Benchmark and Neural Architecture for Conversational Entity Retrieval from a Knowledge Graph (The Web Conference 2024)](https://openreview.net/pdf?id=9UudHPxH27) 
+Mona Zamiri, **Yao Qiang**, Fedor Nikolaev, Dongxiao Zhu, Alexander Kotov
 ## [Learning compact features via in-training representation alignment (AAAI 2023)](https://ojs.aaai.org/index.php/AAAI/article/view/26044) 
 Xin Li, Xiangrui Li, Deng Pan, **Yao Qiang**, and Dongxiao Zhuu
 ## [Negative Flux Aggregation to Estimate Feature Attributions (IJCAI 2023)](https://arxiv.org/pdf/2301.06989.pdf) 
@@ -89,7 +97,7 @@ Design and Analysis of Algorithms (Graduate Level), CSC 7825 Machine Learning (G
 # 💼 Academic Service
 - **Program Committee Member**: SDM 2023, KDD 2023, AAAI 2022-2023, ICML 2022-2024
 - **Journal Reviewer**: TKDD 2023, AI 2022, TIOT 2021
-- **Conference Reviewer**: SDM 2023, KDD 2023-2024, CVPR 2023, AAAI 2020-2023, NeurIPS 2020-2023, ICLR 2022-2023, IJCAI 2021-2024, MICCAI 2022-2023, ICML 2022-2023
+- **Conference Reviewer**: SDM 2023, KDD 2023-2024, CVPR 2023, AAAI 2020-2023, NeurIPS 2020-2023, ICLR 2022-2023, IJCAI 2021-2024, MICCAI 2022-2023, ICML 2022-2024
 - **Conference Student Volunteering**, AAAI 2023, NeurIPS 2022, IJCAI 2022, IJCNN 2022
 
 # 🎖 Honors and Awards
@@ -109,5 +117,5 @@ Design and Analysis of Algorithms (Graduate Level), CSC 7825 Machine Learning (G
 
 # 🔗 Links
 - 👨‍🏫 **Advisors**: [Dongxiao Zhu](https://dongxiaozhu.github.io/)
-- 🧑‍🎓 **Co-authors**: [Marco Brocanelli](),[Chengyi Li](), [Xin Li](), [Prashant Khanduri](), [Deng Pan]()
+- 🧑‍🎓 **Co-authors**: [Marco Brocanelli](https://u.osu.edu/brocanelli1/),[Chengyi Li](https://chengyinlee.github.io/), [Xin Li](https://www.linkedin.com/in/xin-li-30631566/), [Prashant Khanduri](https://sites.google.com/view/khanduri-prashant/), [Deng Pan](https://www.pandacid.com/)
 - 💻**Lab**: [Trustworthy Lab](https://sites.google.com/view/mlpa/mainpage)
