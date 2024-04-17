@@ -13,13 +13,14 @@ redirect_from:
 I am currently in the fifth year of my Ph.D. program in the Department of Computer Science at Wayne State University, 
 where I work in the Trustworthy AI lab under the supervision of <a href="https://dongxiaozhu.github.io/" target="_blank"> Dr. Dongxiao Zhu</a>. 
 My research mainly focuses on Natural Language Processing (NLP), Large Language Models (LLMs), Trustworthy Artificial Intelligence (AI), and Machine Learning Theory and Applications. 
-My dedication to these areas has led to the publication of numerous research papers at top AI conferences, including NeurIPS, IJCAI, AAAI, ICML, MICCAI, and IJCNN, among others. 
+My dedication to these areas has led to the publication of numerous research papers at top AI conferences, including NeurIPS, IJCAI, AAAI, ICML, EACL, MICCAI, and IJCNN, among others. 
 I have a strong passion for research and a demonstrated ability to apply my knowledge to real-world challenges.
 
 I am looking for self-motivated Master/Ph.D. students to join my group for Winter/Fall 2025. If you are interested in Trustworthy AI, NLP, LLMs, and Generative AI, please feel free to send me an email with your CV.
 
 # 🔥 News
 - *2024.04*: &nbsp;💼 I will be joining the CSE Department of SECS at [Oakland University](https://www.oakland.edu/) as a Tenure-track Assistant Professor in Fall 2024.
+- *2024.04*: &nbsp;💼 I deliver a presentation on Trustworthy AI for the AI Reading Group Seminar at UNC Charlote. 
 - *2024.02*: &nbsp;✨ New [preprint](https://arxiv.org/pdf/2402.13459.pdf) on **LLM Safety** is available at arxiv.
 - *2024.01*: &nbsp;🎉 1 Paper accepted by **EACL 2024**.
 - *2024.01*: &nbsp;🎉 1 Paper accepted by **ACM The Web Conference 2024**.
