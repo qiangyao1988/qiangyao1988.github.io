@@ -49,6 +49,8 @@ I am looking for self-motivated Master's/Ph.D. students to join my group for Win
 
 # 📝 Publications 
 ## [Full publications here](https://scholar.google.com/citations?user=8ADcg38AAAAJ&hl=en)
+## [Fairness-aware Vision Transformer via Debiased Self-Attention (ECCV 2024)](https://arxiv.org/pdf/2301.13803.pdf) 
+**Yao Qiang**, Chengyin Li, Prashant Khanduri, and Dongxiao Zhu
 ## [Prompt Perturbation Consistency Learning (PPCL) for Robust Language Models (EACL 2024)](https://arxiv.org/pdf/2402.15833.pdf) 
 **Yao Qiang**, Subhrangshu Nandi, Ninareh Mehrabi, Greg Ver Steeg, Anoop Kumar, Anna Rumshisky, and Aram Galstyan
 ## [Attcat: Explaining transformers via attentive class activation tokens (NeurIPS 2022)](https://proceedings.neurips.cc/paper_files/paper/2022/file/20e45668fefa793bd9f2edf19be12c4b-Paper-Conference.pdf) 
@@ -59,8 +61,6 @@ I am looking for self-motivated Master's/Ph.D. students to join my group for Win
 **Yao Qiang**, Xiangyu Zhou, Saleh Zare Zade, Mohammad Amin Roshani, Douglas Zytko, Dongxiao Zhu
 ## [Hijacking Large Language Models via Adversarial In-Context Learning (Pre-print)](https://arxiv.org/pdf/2311.09948.pdf) 
 **Yao Qiang**, Xiangyu Zhou, and Dongxiao Zhu
-## [Fairness-aware Vision Transformer via Debiased Self-Attention (Pre-print)](https://arxiv.org/pdf/2301.13803.pdf) 
-**Yao Qiang**, Chengyin Li, Prashant Khanduri, and Dongxiao Zhu
 ## [Tiny rnn model with certified robustness for text classification (IJCNN 2022)](https://ieeexplore.ieee.org/abstract/document/9892117) 
 **Yao Qiang**, Supriya Tumkur Suresh Kumar, Marco Brocanelli, and Dongxiao Zhu
 ## [Toward tag-free aspect based sentiment analysis: A multiple attention network approach (IJCNN 2020)](https://ieeexplore.ieee.org/abstract/document/9207426) 
