@@ -75,22 +75,24 @@ Xin Li, Deng Pan, Chengyin Li, **Yao Qiang**, and Dongxiao Zhu
 Chengyin Li, **Yao Qiang**, Rafi Ibn Sultan, Hassan Bagher-Ebadian, Prashant Khanduri, Indrin J. Chetty, and Dongxiao Zhu
 
 # 📖 Educations
-- *2019.09 - 2024.05 (expected)*, Doctor of Philosophy in Computer Science, Wayne State University
+- *2019.09 - 2024.06*, Doctor of Philosophy in Computer Science, Wayne State University
 - *2018.09 - 2019.12*, Master of Science in Computer Science, Wayne State University
 - *2006.09 - 2010.07*, Bachelor of Science in Computer Science, Wayne State University
 
 # 💻 Experience
-- *2019.09 - Present*, Graduate Research Assistant, Trustworthy AI Lab, Wayne State University
+- *2024.08- Present*, Assistant Professor, CSE, Oakland University
+- *2019.09 - 2024.06*, Graduate Research Assistant, Trustworthy AI Lab, Wayne State University
 - *2023.05 - 2023.08*, Applied Scientist Intern, Trustworthy AI Lab, Robust and Modeling Team, Alexa, Amazon
 - *2018.08 - 2019.08*, Student Research Assistant, Part-time, Mike Ilitch School of Business, Wayne State University
 - *2010.08 - 2017.12*, Computer Hardware Designer, Xi’an Microelectronics Technology Institute
 
 # 📃 Teaching
+- *2024 - 2025*, Lectuere for CSI 4100/5100 Ethics and Bias in AI
 - *2020 - 2023*, Invited Lecturer for CSC 5825 Machine Learning&Apps (Graduate Level)
 - *2020 - 2022*, Invited Lecturer for CSC 7825 Machine Learning (Graduate Level)
 - *2021*, Instructor for CSC 3101 Computer Architecture and Organization: Lab 
 - *2020*, Instructor for CSC 2111 Computer Science: Lab
-- *2020 - 2022*, Teaching Assistant for CSC 2111 Computer Science, 
+- *2020 - 2022*, Teaching Assistant for CSC 2111 Computer Science,
 CSC 3101 Computer Architecture and Organization, CSC 5825 Machine Learning&Apps (Graduate Level), 
 Design and Analysis of Algorithms (Graduate Level), CSC 7825 Machine Learning (Graduate Level)
 
