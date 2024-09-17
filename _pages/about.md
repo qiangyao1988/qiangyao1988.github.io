@@ -15,6 +15,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department a
 I am looking for self-motivated Master's/Ph.D. students to join my group for Winter/Fall 2025. If you are interested in Trustworthy AI, NLP, LLMs, and Generative AI, please feel free to email me with your CV.
 
 # 🔥 News
+- *2024.09*: &nbsp;💼 I gave a talk titled "Designing for Reliability: Fairness and Interpretability Aware Vision Transformer" at the CS Department Graduate Seminar of Wayne State University. Many thanks to [Dr. Nathan Fisher](https://engineering.wayne.edu/profile/dx3281) for the kind invitation.
 - *2024.08*: &nbsp;💼 I start working at OU this August. 
 - *2024.07*: &nbsp;🎉 1 Paper accepted by **ECCV 2024**.
 - *2024.07*: &nbsp;🎉 I have successfully pass my Ph.D dissertation. 
