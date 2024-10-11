@@ -39,7 +39,7 @@ I am looking for self-motivated Master's/Ph.D. students to join my group for Win
 - *2022.11*: &nbsp;🎉 1 Paper accepted by **AAAI 2023**.
 - *2022.12*: &nbsp;🎖 I won the **NeurIPS 2022 Scholar Award**.
 - *2022.09*: &nbsp;🎉 1 Paper accepted by **NeurIPS 2023**.
-- *2022.07*: &nbsp;🚁 I attended **IJCA 2022** at Vienna, Austria and presented our [paper](https://www.ijcai.org/proceedings/2022/0103.pdf).  
+- *2022.07*: &nbsp;🚁 I attended **IJCAI 2022** at Vienna, Austria and presented our [paper](https://www.ijcai.org/proceedings/2022/0103.pdf).  
 - *2022.07*: &nbsp;🚁 I attended **IJCNN 2022** at Padua, Italy and presented our [paper](https://ieeexplore.ieee.org/abstract/document/9892117). 
 - *2022.05*: &nbsp;🎖 I won the **Department Travel Award** for Outstanding Conference Publications.
 - *2022.05*: &nbsp;🎖 I won the **Graduate Student Professional Travel Award**.
