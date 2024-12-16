@@ -79,7 +79,7 @@ Chengyin Li, **Yao Qiang**, Rafi Ibn Sultan, Hassan Bagher-Ebadian, Prashant Kha
 # 📖 Educations
 - *2019.09 - 2024.06*, Doctor of Philosophy in Computer Science, Wayne State University
 - *2018.09 - 2019.12*, Master of Science in Computer Science, Wayne State University
-- *2006.09 - 2010.07*, Bachelor of Science in Computer Science, Wayne State University
+- *2006.09 - 2010.07*, Bachelor of Science in Computer Science, Xidian University
 
 # 💻 Experience
 - *2024.08- Present*, Assistant Professor, CSE, Oakland University
@@ -115,11 +115,8 @@ Design and Analysis of Algorithms (Graduate Level), CSC 7825 Machine Learning (G
 - Department Oustanding GTA Award, *2020*
 - Graduate School Master’s Scholarship Award, *2019*
 
-
 # 💼 CV
 - **[PDF](yao_cv.pdf)**
 
 # 🔗 Links
-- 👨‍🏫 **Advisors**: [Dongxiao Zhu](https://dongxiaozhu.github.io/)
-- 🧑‍🎓 **Co-authors**: [Marco Brocanelli](https://u.osu.edu/brocanelli1/),[Chengyi Li](https://chengyinlee.github.io/), [Xin Li](https://www.linkedin.com/in/xin-li-30631566/), [Prashant Khanduri](https://sites.google.com/view/khanduri-prashant/), [Deng Pan](https://www.pandacid.com/)
-- 💻**Lab**: [Trustworthy Lab](https://sites.google.com/view/mlpa/mainpage)
+- 👨‍🏫 **Ph.D. Advisors**: [Dongxiao Zhu](https://dongxiaozhu.github.io/)
