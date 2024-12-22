@@ -10,11 +10,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Assistant Professor in the Computer Science and Engineering Department at Oakland University. My research mainly focuses on Natural Language Processing (NLP), Large Language Models (LLMs), Trustworthy Artificial Intelligence (AI), and Machine Learning Theory and Applications.  My dedication to these areas has led to the publication of numerous research papers at top AI conferences, including NeurIPS, IJCAI, AAAI, ICML, EACL, MICCAI, and IJCNN, among others. I have a strong passion for research and a demonstrated ability to apply my knowledge to real-world challenges.
+I am an Assistant Professor in the Computer Science and Engineering Department at Oakland University. I am the director of SAFE Lab (Secure, Aligned, Fair, and Ethical AI Research Lab). My research mainly focuses on Natural Language Processing (NLP), Large Language Models (LLMs), Trustworthy Artificial Intelligence (AI), and Machine Learning Theory and Applications. My dedication to these areas has led to the publication of numerous research papers at top AI conferences, including NeurIPS, IJCAI, AAAI, ICML, EACL, MICCAI, and IJCNN, among others. I have a strong passion for research and a demonstrated ability to apply my knowledge to real-world challenges.
 
 I am looking for self-motivated Master's/Ph.D. students to join my group for Winter/Fall 2025. If you are interested in Trustworthy AI, NLP, LLMs, and Generative AI, please feel free to email me with your CV.
 
-# 🔥 News
+# 🔥 News  
+- *2024.12*: &nbsp;✨ I have recruited my first full-time Ph.D. student, Aswini Sivakumar. I wish Aswini a fruitful and rewarding Ph.D. journey under your guidance!
 - *2024.09*: &nbsp;✨ New [preprint](https://arxiv.org/pdf/2409.15027) on **LLM Application** is available at arxiv.
 - *2024.09*: &nbsp;💼 I gave a talk titled "Designing for Reliability: Fairness and Interpretability Aware Vision Transformer" at the CS Department Graduate Seminar of Wayne State University. Many thanks to [Dr. Nathan Fisher](https://engineering.wayne.edu/profile/dx3281) for the kind invitation.
 - *2024.08*: &nbsp;💼 I start working at OU this August. 
