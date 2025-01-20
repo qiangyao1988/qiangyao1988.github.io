@@ -16,6 +16,7 @@ I am looking for self-motivated Master's/Ph.D. students to join my group for Win
 
 # 🔥 News  
 - *2024.12*: &nbsp;✨ I have recruited my first full-time Ph.D. student, Aswini Sivakumar. I wish Aswini a fruitful and rewarding Ph.D. journey under my guidance!
+- *2024.10*:  🎉 1 [Paper]([https://arxiv.org/pdf/2409.15027](https://arxiv.org/pdf/2308.14936.pdf)) accepted by WACV 2025.
 - *2024.09*: &nbsp;✨ New [preprint](https://arxiv.org/pdf/2409.15027) on **LLM Application** is available at arxiv.
 - *2024.09*: &nbsp;💼 I gave a talk titled "Designing for Reliability: Fairness and Interpretability Aware Vision Transformer" at the CS Department Graduate Seminar of Wayne State University. Many thanks to [Dr. Nathan Fisher](https://engineering.wayne.edu/profile/dx3281) for the kind invitation.
 - *2024.08*: &nbsp;💼 I start working at OU this August. 
