@@ -15,6 +15,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department a
 I am looking for self-motivated Master's/Ph.D. students to join my group for Winter/Fall 2025. If you are interested in Trustworthy AI, NLP, LLMs, and Generative AI, please feel free to email me with your CV.
 
 # 🔥 News  
+- *2025.01*: &nbsp;💼 I am serving on a NSF NLP&IR Panel.
 - *2024.12*: &nbsp;✨ I have recruited my first full-time Ph.D. student, Aswini Sivakumar. I wish Aswini a fruitful and rewarding Ph.D. journey under my guidance!
 - *2024.10*:  🎉 1 [Paper](https://arxiv.org/pdf/2308.14936.pdf) accepted by WACV 2025.
 - *2024.09*: &nbsp;✨ New [preprint](https://arxiv.org/pdf/2409.15027) on **LLM Application** is available at arxiv.
