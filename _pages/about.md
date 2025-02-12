@@ -92,6 +92,7 @@ Chengyin Li, **Yao Qiang**, Rafi Ibn Sultan, Hassan Bagher-Ebadian, Prashant Kha
 - *2010.08 - 2017.12*, Computer Hardware Designer, Xi’an Microelectronics Technology Institute
 
 # 📃 Teaching
+- *2025 - 2026*, Lecturer for CSI 3480 Security and Privacy in Computing
 - *2024 - 2025*, Lecturer for CSI 4100/5100 Ethics and Bias in AI
 - *2020 - 2023*, Invited Lecturer for CSC 5825 Machine Learning&Apps (Graduate Level)
 - *2020 - 2022*, Invited Lecturer for CSC 7825 Machine Learning (Graduate Level)
