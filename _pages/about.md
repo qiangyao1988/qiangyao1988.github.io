@@ -56,27 +56,27 @@ I am looking for self-motivated Master's/Ph.D. students to join my group for Win
 ### [Full publications here](https://scholar.google.com/citations?user=8ADcg38AAAAJ&hl=en)
 ### [Fairness-aware Vision Transformer via Debiased Self-Attention (ECCV 2024)](https://arxiv.org/pdf/2301.13803.pdf) 
 **Yao Qiang**, Chengyin Li, Prashant Khanduri, and Dongxiao Zhu
-## [Prompt Perturbation Consistency Learning (PPCL) for Robust Language Models (EACL 2024)](https://arxiv.org/pdf/2402.15833.pdf) 
+### [Prompt Perturbation Consistency Learning (PPCL) for Robust Language Models (EACL 2024)](https://arxiv.org/pdf/2402.15833.pdf) 
 **Yao Qiang**, Subhrangshu Nandi, Ninareh Mehrabi, Greg Ver Steeg, Anoop Kumar, Anna Rumshisky, and Aram Galstyan
-## [Attcat: Explaining transformers via attentive class activation tokens (NeurIPS 2022)](https://proceedings.neurips.cc/paper_files/paper/2022/file/20e45668fefa793bd9f2edf19be12c4b-Paper-Conference.pdf) 
+### [Attcat: Explaining transformers via attentive class activation tokens (NeurIPS 2022)](https://proceedings.neurips.cc/paper_files/paper/2022/file/20e45668fefa793bd9f2edf19be12c4b-Paper-Conference.pdf) 
 **Yao Qiang**, Deng Pan, Chengyin Li, Xin Li, Rhongho Jang, and Dongxiao Zhu
-## [Counterfactual interpolation augmentation (CIA): A unified approach to enhance fairness and explainability of DNN (IJCAI 2022)](https://www.ijcai.org/proceedings/2022/0103.pdf) 
+### [Counterfactual interpolation augmentation (CIA): A unified approach to enhance fairness and explainability of DNN (IJCAI 2022)](https://www.ijcai.org/proceedings/2022/0103.pdf) 
 **Yao Qiang**, Chengyin Li, Marco Brocanelli, and Dongxiao Zhu
-## [Learning to Poison Large Language Models During Instruction Tuning (Pre-print)](https://arxiv.org/pdf/2402.13459.pdf) 
+### [Learning to Poison Large Language Models During Instruction Tuning (Pre-print)](https://arxiv.org/pdf/2402.13459.pdf) 
 **Yao Qiang**, Xiangyu Zhou, Saleh Zare Zade, Mohammad Amin Roshani, Douglas Zytko, Dongxiao Zhu
-## [Hijacking Large Language Models via Adversarial In-Context Learning (Pre-print)](https://arxiv.org/pdf/2311.09948.pdf) 
+### [Hijacking Large Language Models via Adversarial In-Context Learning (Pre-print)](https://arxiv.org/pdf/2311.09948.pdf) 
 **Yao Qiang**, Xiangyu Zhou, and Dongxiao Zhu
-## [Tiny rnn model with certified robustness for text classification (IJCNN 2022)](https://ieeexplore.ieee.org/abstract/document/9892117) 
+### [Tiny rnn model with certified robustness for text classification (IJCNN 2022)](https://ieeexplore.ieee.org/abstract/document/9892117) 
 **Yao Qiang**, Supriya Tumkur Suresh Kumar, Marco Brocanelli, and Dongxiao Zhu
-## [Toward tag-free aspect based sentiment analysis: A multiple attention network approach (IJCNN 2020)](https://ieeexplore.ieee.org/abstract/document/9207426) 
+### [Toward tag-free aspect based sentiment analysis: A multiple attention network approach (IJCNN 2020)](https://ieeexplore.ieee.org/abstract/document/9207426) 
 **Yao Qiang**, Xin Li, and Dongxiao Zhu
-## [Benchmark and Neural Architecture for Conversational Entity Retrieval from a Knowledge Graph (The Web Conference 2024)](https://openreview.net/pdf?id=9UudHPxH27) 
+### [Benchmark and Neural Architecture for Conversational Entity Retrieval from a Knowledge Graph (The Web Conference 2024)](https://openreview.net/pdf?id=9UudHPxH27) 
 Mona Zamiri, **Yao Qiang**, Fedor Nikolaev, Dongxiao Zhu, Alexander Kotov
-## [Learning compact features via in-training representation alignment (AAAI 2023)](https://ojs.aaai.org/index.php/AAAI/article/view/26044) 
+### [Learning compact features via in-training representation alignment (AAAI 2023)](https://ojs.aaai.org/index.php/AAAI/article/view/26044) 
 Xin Li, Xiangrui Li, Deng Pan, **Yao Qiang**, and Dongxiao Zhuu
-## [Negative Flux Aggregation to Estimate Feature Attributions (IJCAI 2023)](https://arxiv.org/pdf/2301.06989.pdf) 
+### [Negative Flux Aggregation to Estimate Feature Attributions (IJCAI 2023)](https://arxiv.org/pdf/2301.06989.pdf) 
 Xin Li, Deng Pan, Chengyin Li, **Yao Qiang**, and Dongxiao Zhu
-## [FocalUNETR: A Focal Transformer for Boundary-Aware Prostate Segmentation Using CT Images (MICCAI 2022)](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_57) 
+### [FocalUNETR: A Focal Transformer for Boundary-Aware Prostate Segmentation Using CT Images (MICCAI 2022)](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_57) 
 Chengyin Li, **Yao Qiang**, Rafi Ibn Sultan, Hassan Bagher-Ebadian, Prashant Khanduri, Indrin J. Chetty, and Dongxiao Zhu
 
 # 📖 Educations
@@ -85,7 +85,7 @@ Chengyin Li, **Yao Qiang**, Rafi Ibn Sultan, Hassan Bagher-Ebadian, Prashant Kha
 - *2006.09 - 2010.07*, Bachelor of Science in Computer Science, Xidian University
 
 # 💻 Experience
-- *2024.08- Present*, Assistant Professor, CSE, Oakland University
+- *2024.08 - Present*, Assistant Professor, CSE, Oakland University
 - *2019.09 - 2024.06*, Graduate Research Assistant, Trustworthy AI Lab, Wayne State University
 - *2023.05 - 2023.08*, Applied Scientist Intern, Trustworthy AI Lab, Robust and Modeling Team, Alexa, Amazon
 - *2018.08 - 2019.08*, Student Research Assistant, Part-time, Mike Ilitch School of Business, Wayne State University
@@ -105,7 +105,7 @@ Design and Analysis of Algorithms (Graduate Level), CSC 7825 Machine Learning (G
 # 💼 Academic Service
 - **Program Committee Member**: SDM 2023, KDD 2023, AAAI 2022-2023, ICML 2022-2024, CIKM 2024
 - **Journal Reviewer**: TKDD 2023, AI 2022, TIOT 2021
-- **Conference Reviewer**: SDM 2023, KDD 2023-2024, CVPR 2023, AAAI 2020-2023, NeurIPS 2020-2024, ICLR 2022-2023, IJCAI 2021-2024, MICCAI 2022-2023, ICML 2022-2024, ACL 2024
+- **Conference Reviewer**: SDM 2023, KDD 2023-2024, CVPR 2023, AAAI 2020-2025, NeurIPS 2020-2025, ICLR 2022-2025, IJCAI 2021-2025, MICCAI 2022-2023, ICML 2022-2025, ACL 2024
 - **Conference Student Volunteering**, AAAI 2023, NeurIPS 2022, IJCAI 2022, IJCNN 2022
 
 # 🎖 Honors and Awards
@@ -123,4 +123,4 @@ Design and Analysis of Algorithms (Graduate Level), CSC 7825 Machine Learning (G
 - **[PDF](yao_cv.pdf)**
 
 # 🔗 Links
-- 👨‍🏫 **Ph.D. Advisors**: [Dongxiao Zhu](https://dongxiaozhu.github.io/)
+- 👨‍🏫 **Ph.D. Advisors**: [Dr.Dongxiao Zhu](https://dongxiaozhu.github.io/)
