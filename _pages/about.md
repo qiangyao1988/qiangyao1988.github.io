@@ -57,6 +57,8 @@ I am looking for self-motivated Master's/Ph.D. students to join my group for Win
 
 # 📝 Publications 
 ### [Full publications here](https://scholar.google.com/citations?user=8ADcg38AAAAJ&hl=en)
+### [Interpretability-Aware Vision Transformer (IJCNN 2025)](https://arxiv.org/pdf/2309.08035) 
+**Yao Qiang**, Chengyin Li, Hui Zhu, Prashant Khanduri, and Dongxiao Zhu
 ### [Fairness-aware Vision Transformer via Debiased Self-Attention (ECCV 2024)](https://arxiv.org/pdf/2301.13803.pdf) 
 **Yao Qiang**, Chengyin Li, Prashant Khanduri, and Dongxiao Zhu
 ### [Prompt Perturbation Consistency Learning (PPCL) for Robust Language Models (EACL 2024)](https://arxiv.org/pdf/2402.15833.pdf) 
