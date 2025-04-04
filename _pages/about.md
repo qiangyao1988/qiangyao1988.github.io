@@ -15,6 +15,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department a
 I am looking for self-motivated Master's/Ph.D. students to join my group for Winter/Fall 2025. If you are interested in Trustworthy AI, NLP, LLMs, and Generative AI, please feel free to email me with your CV.
 
 # 🔥 News  
+- *2025.03*: &nbsp;🎉 3 poster and 1 oral presentations accepted by **MSLD 2025**.
 - *2025.03*: &nbsp;🎉 1 Paper accepted by **IJCNN 2025**.
 - *2025.03*: &nbsp;✨ I receive the Faculty Research Fellowship from Oakland University. 
 - *2025.01*: &nbsp;💼 I am serving on an NSF CISE Panel.
