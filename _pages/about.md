@@ -13,11 +13,12 @@ redirect_from:
 I am an Assistant Professor in the Computer Science and Engineering Department at Oakland University. I am the director of SAFE AI Lab (Secure, Aligned, Fair, and Ethical AI Research Lab). My research mainly focuses on Natural Language Processing (NLP), Large Language Models (LLMs), Trustworthy Artificial Intelligence (AI), and Machine Learning Theory and Applications. My dedication to these areas has led to the publication of numerous research papers at top AI conferences, including NeurIPS, IJCAI, AAAI, ICML, EACL, MICCAI, and IJCNN, among others. I have a strong passion for research and a demonstrated ability to apply my knowledge to real-world challenges.
 
 # 🔥 News  
+- *2025.07*:  🎉 1 [Paper](https://arxiv.org/pdf/2505.03392) accepted by **ECAI 2025**.
 - *2025.04*: &nbsp;💼 I will be serving as a mentor in the NSF REU program this summer and am excited to meet the students and see the excellent research they will conduct. 
 - *2025.04*: &nbsp;🎉 1 Paper accepted by **Medical Physics**.
 - *2025.03*: &nbsp;🎉 3 poster and 1 oral presentations accepted by **MSLD 2025**.
 - *2025.03*: &nbsp;🎉 1 Paper accepted by **IJCNN 2025**.
-- *2025.03*: &nbsp;✨ I receive the Faculty Research Fellowship from Oakland University. 
+- *2025.03*: &nbsp;✨ I received the Faculty Research Fellowship from Oakland University. 
 - *2025.01*: &nbsp;💼 I am serving on an NSF CISE Panel.
 - *2024.12*: &nbsp;✨ I have recruited my first full-time Ph.D. student, Aswini Sivakumar. I wish Aswini a fruitful and rewarding Ph.D. journey under my guidance!
 - *2024.10*:  🎉 1 [Paper](https://arxiv.org/pdf/2308.14936.pdf) accepted by WACV 2025.
