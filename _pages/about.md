@@ -14,7 +14,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department a
 
 # 🔥 News  
 - *2026.5*:  🎉 1 [Paper](https://arxiv.org/pdf/2311.09948) accepted by **ECML PKDD 2026**.
-- *2026.5*:  🎉 1 [Paper]([https://arxiv.org/pdf/2506.03142](https://openreview.net/pdf?id=4uRlbSNevR)) published in **Transactions on Machine Learning Research**.
+- *2026.5*:  🎉 1 [Paper](https://openreview.net/pdf?id=4uRlbSNevR) published in **Transactions on Machine Learning Research**.
 - *2025.12*:  🎉 1 [Paper](https://arxiv.org/pdf/2506.03142) accepted by **AAAI 2026**.
 - *2025.10*:  🎉 1 Paper accepted by **IEEE International Conference on Data Mining (ICDM) 2025: Undergraduate and High School Symposium**.
 - *2025.10*:  🎉 2 Papers accepted by **IEEE International Conference on Data Mining (ICDM) 2025: REU Symposium**.
