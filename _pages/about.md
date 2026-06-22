@@ -13,6 +13,8 @@ redirect_from:
 I am an Assistant Professor in the Computer Science and Engineering Department at Oakland University. I am the director of SAFE AI Lab (Secure, Aligned, Fair, and Ethical AI Research Lab). My research mainly focuses on Natural Language Processing (NLP), Large Language Models (LLMs), Trustworthy Artificial Intelligence (AI), and Machine Learning Theory and Applications. My dedication to these areas has led to the publication of numerous research papers at top AI conferences, including NeurIPS, IJCAI, AAAI, ICML, EACL, MICCAI, and IJCNN, among others. I have a strong passion for research and a demonstrated ability to apply my knowledge to real-world challenges.
 
 # 🔥 News  
+- *2026.5*:  🎉 1 [Paper](https://arxiv.org/pdf/2311.09948) accepted by **ECML PKDD 2026**.
+- *2026.5*:  🎉 1 [Paper]([https://arxiv.org/pdf/2506.03142](https://openreview.net/pdf?id=4uRlbSNevR)) published in **Transactions on Machine Learning Research**.
 - *2025.12*:  🎉 1 [Paper](https://arxiv.org/pdf/2506.03142) accepted by **AAAI 2026**.
 - *2025.10*:  🎉 1 Paper accepted by **IEEE International Conference on Data Mining (ICDM) 2025: Undergraduate and High School Symposium**.
 - *2025.10*:  🎉 2 Papers accepted by **IEEE International Conference on Data Mining (ICDM) 2025: REU Symposium**.
